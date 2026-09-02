@@ -68,7 +68,7 @@ const HomeOne = ({
 export default HomeOne;
 
 export async function getServerSideProps() {
-	const posts = await getAllPosts([
+	const posts = (await getAllPosts([
 		'postFormat',
 		'trending',
 		'story',
@@ -88,7 +88,7 @@ export async function getServerSideProps() {
 		'isPromo',
 		'tags',
 		'isAd',
-	])
+	]))
 		.filter((post) => !isRecomandarePost(post))
 		.sort(comparePostsByDateDesc);
 

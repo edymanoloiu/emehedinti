@@ -28,7 +28,7 @@ function MyApp({ Component, pageProps }) {
 
 	useEffect(() => {
 		const handleRouteChange = (url) => {
-			window.gtag('config', 'G-S5VGH4XWRB', { page_path: url });
+			window.gtag('config', 'G-71PYV2VNRK', { page_path: url });
 		};
 		Router.events.on('routeChangeComplete', handleRouteChange);
 		return () => Router.events.off('routeChangeComplete', handleRouteChange);
@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
 		<>
 			{/*  Global site tag (gtag.js) - Google Analytics */}
 			<Script
-				src="https://www.googletagmanager.com/gtag/js?id=G-S5VGH4XWRB"
+				src="https://www.googletagmanager.com/gtag/js?id=G-71PYV2VNRK"
 				strategy="afterInteractive"
 			/>
 			{/* Temporarily disabled while AdOcean campaign runs.
@@ -56,7 +56,7 @@ function MyApp({ Component, pageProps }) {
 						'security_storage': 'granted'
 					});
 
-					gtag('config', 'G-S5VGH4XWRB', { page_path: window.location.pathname });
+					gtag('config', 'G-71PYV2VNRK', { page_path: window.location.pathname });
 				`}
 			</Script>
 

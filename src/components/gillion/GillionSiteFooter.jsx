@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { slugify } from "../../utils";
 import GillionNewsletterForm from "./GillionNewsletterForm";
+import publication from "../../data/publication";
 
 const GillionSiteFooter = ({ recentPosts = [], footerCategories = [] }) => {
 	const reviews = recentPosts.filter((p) => p.slug).slice(0, 3);
@@ -14,7 +15,7 @@ const GillionSiteFooter = ({ recentPosts = [], footerCategories = [] }) => {
 					<GillionNewsletterForm
 						dark
 						source="footer"
-						note="* Primești cele mai importante știri din Drobeta‑Turnu Severin."
+						note="* Primești cele mai importante știri din Mehedinți."
 					/>
 				</div>
 
@@ -53,7 +54,7 @@ const GillionSiteFooter = ({ recentPosts = [], footerCategories = [] }) => {
 					<li><Link href="/gdpr">GDPR</Link></li>
 					<li><Link href="/cookies">Cookies</Link></li>
 				</ul>
-				<p>© {new Date().getFullYear()} Azi în Drobeta‑Turnu Severin · Site realizat de Weboratory Capital</p>
+				<p>© {new Date().getFullYear()} {publication.publicationName} · Site realizat de Weboratory Capital</p>
 			</div>
 		</footer>
 	);

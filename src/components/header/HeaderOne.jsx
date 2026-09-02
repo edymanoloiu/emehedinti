@@ -2,6 +2,7 @@ import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MenuData from "../../data/menu/HeaderMenu.json";
+import publication from "../../data/publication";
 
 const HeaderOne = () => {
 	const [mobileOpen, setMobileOpen] = useState(false);
@@ -11,10 +12,15 @@ const HeaderOne = () => {
 			<header className="page-header gillion-header">
 				<div className="gillion-header__inner">
 					<Link href="/" className="gillion-logo">
-						<Image src="/images/cropped_image.png" alt="Azi în Drobeta‑Turnu Severin" width={48} height={48} />
+						<Image
+							src={publication.favicon || "/images/cropped_image.png"}
+							alt={publication.publicationName}
+							width={48}
+							height={48}
+						/>
 						<div className="gillion-logo__text">
-							<span className="gillion-logo__name">Azi în Drobeta‑Turnu Severin</span>
-							<span className="gillion-logo__tag">Știri locale din Drobeta‑Turnu Severin</span>
+							<span className="gillion-logo__name">{publication.publicationName}</span>
+							<span className="gillion-logo__tag">{publication.publicationTagline}</span>
 						</div>
 					</Link>
 

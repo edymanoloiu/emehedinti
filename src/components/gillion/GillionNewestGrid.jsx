@@ -6,8 +6,10 @@ import GillionMeta from "./GillionMeta";
 import GillionNewsletterForm from "./GillionNewsletterForm";
 import { postScore } from "../../utils/gillionScore";
 
+import { isLocalNewsCate } from "../../utils/categories";
+
 const SIDEBAR_TABS = [
-	{ key: "azi", label: "Azi în Drobeta", cate: "Azi in Drobeta‑Turnu Severin" },
+	{ key: "azi", label: "Azi în Mehedinți", cate: "Azi in Mehedinti" },
 	{ key: "evenimente", label: "Evenimente", cate: "Evenimente si cultura" },
 ];
 
@@ -19,7 +21,7 @@ const GillionNewestGrid = ({ posts = [], sidebarPosts = [] }) => {
 		.filter((p) => {
 			if (!p.featureImg || !p.slug) return false;
 			if (tab === "azi") {
-				return p.cate?.includes("Drobeta") && p.cate !== "Evenimente si cultura";
+				return isLocalNewsCate(p.cate);
 			}
 			return p.cate === activeTab.cate;
 		})
@@ -62,7 +64,7 @@ const GillionNewestGrid = ({ posts = [], sidebarPosts = [] }) => {
 					</div>
 					<GillionNewsletterForm
 						source="sidebar"
-						note="* Primești cele mai importante știri din Drobeta‑Turnu Severin direct în inbox."
+						note="* Primești cele mai importante știri din Mehedinți direct în inbox."
 					/>
 
 					<div className="gillion-section-head gillion-section-head--accent gillion-section-head--tabs">

@@ -4,9 +4,13 @@ import Link from "next/link";
 import { slugify } from "../../utils";
 import GillionMeta from "./GillionMeta";
 
+import { isLocalNewsCate } from "../../utils/categories";
+
+const LOCAL_FILTER_KEY = "local";
+
 const FILTERS = [
 	{ key: "all", label: "Toate" },
-	{ key: "Azi in Drobeta‑Turnu Severin", label: "Azi în Drobeta‑Turnu Severin" },
+	{ key: LOCAL_FILTER_KEY, label: "Azi în Mehedinți" },
 	{ key: "Evenimente si cultura", label: "Evenimente" },
 ];
 
@@ -16,7 +20,9 @@ const GillionTopCategories = ({ posts = [] }) => {
 	const filtered =
 		active === "all"
 			? posts
-			: posts.filter((p) => p.cate === active);
+			: active === LOCAL_FILTER_KEY
+				? posts.filter((p) => isLocalNewsCate(p.cate))
+				: posts.filter((p) => p.cate === active);
 
 	const featured = filtered[0];
 	const sidebar = filtered.slice(1, 4);

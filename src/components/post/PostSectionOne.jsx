@@ -17,10 +17,10 @@ const PostSectionOne = ({ postData }) => {
 					<div className="col-lg-6">
 						<div className="axil-recent-news">
 							<SectionTitle
-								title="Știrile zilei în Drobeta‑Turnu Severin"
+								title="Azi in Mehedinti"
 								pClass="m-b-xs-30"
 								btnText="Toate știrile"
-								btnUrl="/categorie/azi-in-drobeta/"
+								btnUrl="/categorie/azi-in-mehedinti/"
 							/>
 							<div className="axil-content">
 								{postData.slice(3, 14).map((data) => (

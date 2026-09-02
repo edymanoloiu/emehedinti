@@ -9,7 +9,7 @@ const Document = () => {
 			<link
 				rel="alternate"
 				type="application/rss+xml"
-				title="Azi în Drobeta-Turnu Severin RSS"
+				title="eMehedinți RSS"
 				href="https://emehedinti.ro/rss.xml"
 			/>
 			{/* <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="b1b020f5-6ddf-4684-9ebb-d8419e756ca3" type="text/javascript" async></script> */}

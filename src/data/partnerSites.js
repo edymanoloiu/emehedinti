@@ -71,7 +71,7 @@ const partnerSites = [
 			{ url: "https://aziinsuceava.ro/", label: "Știrile zilei în Suceava - Știri locale Suceava" },
 			{ url: "https://voceasucevei.ro/", label: "Vocea Sucevei - Știri locale Suceava" },
 			{ url: "https://aziinpiatraneamt.ro/", label: "Știrile zilei în Piatra Neamț - Știri locale Piatra Neamț" },
-			{ url: "https://emehedinti.ro/", label: "Știrile zilei în Drobeta‑Turnu Severin - Știri locale Drobeta‑Turnu Severin" },
+			{ url: "https://emehedinti.ro/", label: "eMehedinți - Știri locale din Mehedinți" },
 			{ url: "https://voceajiului.ro/", label: "Știrile zilei în Târgu Jiu - Știri locale Târgu Jiu" },
 			{ url: "https://aziincovasna.ro/", label: "Știrile zilei în Covasna - Știri locale Covasna" },
 			{ url: "https://aziinslobozia.ro/", label: "Știrile zilei în Slobozia - Știri locale Slobozia" },

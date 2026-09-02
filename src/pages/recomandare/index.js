@@ -9,17 +9,17 @@ import WidgetPost from "../../components/widget/WidgetPost";
 import PostLayoutTwo from "../../components/post/layout/PostLayoutTwo";
 
 const PAGE_TITLE = "Recomandări";
-const SITE_URL = "https://emehedinti.ro";
+import publication from "../../data/publication";
 
 const RecomandareIndex = ({ postData, allPosts }) => {
 	const metaDesc =
-		"Articole recomandate și recomandări parteneri pe aziinbaiamare.ro — conținut editorial selectat.";
+		"Articole recomandate și recomandări parteneri pe emehedinti.ro — conținut editorial selectat.";
 	return (
 		<>
 			<HeadMeta
-				metaTitle={`${PAGE_TITLE} | aziinbaiamare.ro`}
+				metaTitle={PAGE_TITLE}
 				metaDesc={metaDesc}
-				ogUrl={`${SITE_URL}/recomandare/`}
+				ogUrl={`${publication.canonicalDomain.replace(/\/$/, "")}/recomandare/`}
 			/>
 			<HeaderOne />
 			<Breadcrumb aPage={PAGE_TITLE} />

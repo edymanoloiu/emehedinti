@@ -13,8 +13,8 @@ const OffcanvasMenu = ({ ofcshow, ofcHandleClose }) => {
 							<div className="col-lg-6">
 								<ul className="main-navigation side-navigation list-inline flex-column">
 									<li>
-										<Link href="/categorie/azi-in-drobeta/">
-											Știrile zilei în Drobeta‑Turnu Severin
+										<Link href="/categorie/azi-in-mehedinti/">
+											Azi in Mehedinti
 										</Link>
 									</li>
 									<li>
@@ -24,7 +24,7 @@ const OffcanvasMenu = ({ ofcshow, ofcHandleClose }) => {
 									</li>
 									<li>
 										<Link href="/categorie/evenimente-si-cultura">
-											Evenimente și Cultură în Drobeta‑Turnu Severin
+											Evenimente și Cultură în Mehedinți
 										</Link>
 									</li>
 									{/* <li>

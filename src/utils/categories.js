@@ -4,16 +4,17 @@ import { slugify } from './index';
 /**
  * Legacy / variant slugs for the main local news category.
  * Posts historically used several cate spellings (incl. U+2011 non-breaking hyphen),
- * while nav uses publication.categorySlug ("azi-in-drobeta").
+ * while nav uses publication.categorySlug ("azi-in-mehedinti").
  */
 const LOCAL_CATEGORY_SLUG_ALIASES = [
+	'azi-in-mehedinti',
 	'azi-in-drobeta',
 	'azi-in-drobeta-turnu-severin',
 	'azi-in-drobetaturnu-severin', // slugify bug before unicode-dash normalization
 ];
 
 export function getLocalCategorySlug() {
-	return publication.categorySlug || 'azi-in-drobeta';
+	return publication.categorySlug || 'azi-in-mehedinti';
 }
 
 export function getLocalCategorySlugSet() {
@@ -32,6 +33,13 @@ export function isLocalCategorySlug(slug) {
 export function isLocalCategoryName(cate) {
 	if (!cate) return false;
 	return isLocalCategorySlug(slugify(cate));
+}
+
+/** Matches local-news posts across legacy and current cate labels. */
+export function isLocalNewsCate(cate) {
+	if (!cate || cate === 'Evenimente si cultura') return false;
+	if (isLocalCategoryName(cate)) return true;
+	return /drobeta|mehedin/i.test(String(cate));
 }
 
 /** Canonical public slug for a post's cate (collapses local variants). */

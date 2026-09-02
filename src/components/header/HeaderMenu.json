@@ -1,14 +1,10 @@
 [
 	{
-		"label": "Știrile zilei în Drobeta‑Turnu Severin",
-		"path": "/categorie/azi-in-drobeta/"
+		"label": "Azi in Mehedinti",
+		"path": "/categorie/azi-in-mehedinti/"
 	},
 	{
-		"label": "Știri naționale și internaționale",
-		"path": "/categorie/stiri-nationale-si-internationale/"
-	},
-	{
-		"label": "Evenimente și Cultură în Drobeta‑Turnu Severin",
+		"label": "Evenimente si cultura",
 		"path": "/categorie/evenimente-si-cultura/"
 	}
 ]

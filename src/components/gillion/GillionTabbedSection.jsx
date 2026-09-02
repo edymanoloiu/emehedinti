@@ -2,24 +2,27 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { slugify } from "../../utils";
+import { isLocalNewsCate } from "../../utils/categories";
 import GillionMeta from "./GillionMeta";
 import GillionReviewsSidebar from "./GillionReviewsSidebar";
 import { postScore } from "../../utils/gillionScore";
 
+const LOCAL_FILTER_KEY = "local";
+
 const FILTERS = [
 	{ key: "all", label: "Toate" },
-	{ key: "Azi in Drobeta‑Turnu Severin", label: "Azi în Drobeta" },
+	{ key: LOCAL_FILTER_KEY, label: "Azi în Mehedinți" },
 	{ key: "Evenimente si cultura", label: "Evenimente" },
 ];
 
-const GillionTabbedSection = ({ posts = [], reviewPosts = [], title = "Știri din Drobeta‑Turnu Severin" }) => {
+const GillionTabbedSection = ({ posts = [], reviewPosts = [], title = "Știri din Mehedinți" }) => {
 	const [active, setActive] = useState("all");
 	const pool = posts.filter((p) => p.featureImg && p.slug);
 	const filtered =
 		active === "all"
 			? pool
-			: active === "Azi in Drobeta‑Turnu Severin"
-				? pool.filter((p) => p.cate?.includes("Drobeta") && p.cate !== "Evenimente si cultura")
+			: active === LOCAL_FILTER_KEY
+				? pool.filter((p) => isLocalNewsCate(p.cate))
 				: pool.filter((p) => p.cate === active);
 
 	const featured = filtered.slice(0, 2);

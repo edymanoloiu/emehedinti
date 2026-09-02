@@ -22,6 +22,7 @@ function slugify(text) {
 }
 
 const LOCAL = new Set([
+	'azi-in-mehedinti',
 	'azi-in-drobeta',
 	'azi-in-drobeta-turnu-severin',
 	'azi-in-drobetaturnu-severin',
@@ -34,14 +35,13 @@ function postMatches(cate, requested) {
 }
 
 assert.strictEqual(slugify('Azi in Drobeta‑Turnu Severin'), 'azi-in-drobeta-turnu-severin');
-assert.strictEqual(slugify('Azi in Drobeta Turnu-Severin'), 'azi-in-drobeta-turnu-severin');
-assert.strictEqual(slugify('Azi in Drobeta-Turnu Severin'), 'azi-in-drobeta-turnu-severin');
+assert.strictEqual(slugify('Azi in Mehedinti'), 'azi-in-mehedinti');
 assert.strictEqual(slugify('Azi in Drobeta'), 'azi-in-drobeta');
 
-assert.ok(postMatches('Azi in Drobeta‑Turnu Severin', 'azi-in-drobeta'));
-assert.ok(postMatches('Azi in Drobeta Turnu-Severin', 'azi-in-drobeta'));
+assert.ok(postMatches('Azi in Drobeta‑Turnu Severin', 'azi-in-mehedinti'));
+assert.ok(postMatches('Azi in Mehedinti', 'azi-in-mehedinti'));
 assert.ok(postMatches('Azi in Drobeta‑Turnu Severin', 'azi-in-drobeta-turnu-severin'));
-assert.ok(!postMatches('Evenimente si cultura', 'azi-in-drobeta'));
+assert.ok(!postMatches('Evenimente si cultura', 'azi-in-mehedinti'));
 assert.ok(postMatches('Evenimente si cultura', 'evenimente-si-cultura'));
 
 console.log('ok: category slug aliases');

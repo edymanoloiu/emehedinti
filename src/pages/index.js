@@ -18,6 +18,7 @@ import {
 	comparePostsByDateDesc,
 	sortRssItemsByDateDesc,
 } from "../utils/homepagePosts";
+import publication from "../data/publication";
 
 const HomeOne = ({
 	topBarPosts,
@@ -41,8 +42,12 @@ const HomeOne = ({
 	return (
 		<>
 			<HeadMeta
-				fullPageTitle="Știri Drobeta-Turnu Severin azi | Azi în Drobeta"
-				metaDesc="Știri din Drobeta-Turnu Severin azi: administrație, trafic, evenimente și informații utile din municipiu și județul Mehedinți."
+				fullPageTitle={publication.seo.title}
+				metaDesc={publication.seo.description}
+				ogTitle={publication.seo.openGraph.title}
+				ogDescription={publication.seo.openGraph.description}
+				twitterTitle={publication.seo.twitter.title}
+				twitterDescription={publication.seo.twitter.description}
 			/>
 			<HeaderOne />
 			<GillionHeroGrid posts={heroPosts} />

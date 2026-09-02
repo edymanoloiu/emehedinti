@@ -1,7 +1,7 @@
 [
 	{
 		"label": "Ultimele știri",
-		"path": "/categorie/azi-in-drobeta/"
+		"path": "/categorie/azi-in-mehedinti/"
 	},
 	{
 		"label": "Ghidul orașului",
@@ -24,7 +24,7 @@
 		"path": "/locuri/"
 	},
 	{
-		"label": "Despre Drobeta-Turnu Severin",
+		"label": "Despre Mehedinți",
 		"path": "/despre/"
 	}
 ]

@@ -1,0 +1,14 @@
+[
+	{
+		"label": "Știrile zilei în Drobeta‑Turnu Severin",
+		"path": "/categorie/azi-in-drobeta/"
+	},
+	{
+		"label": "Știri naționale și internaționale",
+		"path": "/categorie/stiri-nationale-si-internationale/"
+	},
+	{
+		"label": "Evenimente și Cultură în Drobeta‑Turnu Severin",
+		"path": "/categorie/evenimente-si-cultura/"
+	}
+]

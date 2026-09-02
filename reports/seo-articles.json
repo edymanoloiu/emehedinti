@@ -1,0 +1,451 @@
+{
+  "generatedAt": "2026-07-31T05:34:21.028Z",
+  "domain": "https://emehedinti.ro",
+  "articleCount": 3837,
+  "summary": {
+    "critical": 0,
+    "high": 5,
+    "medium": 56,
+    "low": 0,
+    "total": 61
+  },
+  "issues": [
+    {
+      "severity": "medium",
+      "code": "short_title",
+      "slug": "00",
+      "title": "00",
+      "file": "00.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "2026-06-05-t03-fc-petrolul-ploiesti-emehedinti",
+      "wordCount": 104,
+      "file": "2026-06-05-t03-fc-petrolul-ploiesti-emehedinti.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "2026-06-05-t03-viata-libera-emehedinti",
+      "wordCount": 114,
+      "file": "2026-06-05-t03-viata-libera-emehedinti.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "2026-06-05-t03-zeljko-kopic-emehedinti",
+      "wordCount": 98,
+      "file": "2026-06-05-t03-zeljko-kopic-emehedinti.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "2026-06-07-t14-antonelli-emehedinti",
+      "wordCount": 79,
+      "file": "2026-06-07-t14-antonelli-emehedinti.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "activitati-de-gradinarit-la-biblioteca-pogany-pentru-elevi",
+      "wordCount": 101,
+      "file": "activitati-de-gradinarit-la-biblioteca-pogany-pentru-elevi.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "avertisment-privind-deficitul-bugetar",
+      "wordCount": 107,
+      "file": "avertisment-privind-deficitul-bugetar.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "avertisment-privind-deficitul",
+      "wordCount": 98,
+      "file": "avertisment-privind-deficitul.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "bugetul-romaniei-pentru-2026-in-dezbatere",
+      "wordCount": 112,
+      "file": "bugetul-romaniei-pentru-2026-in-dezbatere.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "bugetul-romaniei-pentru-2026",
+      "wordCount": 102,
+      "file": "bugetul-romaniei-pentru-2026.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "carburantii-se-scumpesc-din-nou",
+      "wordCount": 106,
+      "file": "carburantii-se-scumpesc-din-nou.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "ceata-afecteaza-traficul-pe-autostrazi",
+      "wordCount": 111,
+      "file": "ceata-afecteaza-traficul-pe-autostrazi.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "ceata-afecteaza-traficul",
+      "wordCount": 100,
+      "file": "ceata-afecteaza-traficul.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-10-noiembrie-2025",
+      "wordCount": 92,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-10-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-11-decembrie-2025",
+      "wordCount": 107,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-11-decembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-11-noiembrie-2025",
+      "wordCount": 104,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-11-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-12-noiembrie-2025",
+      "wordCount": 94,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-12-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-13-decembrie-2025",
+      "wordCount": 92,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-13-decembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-13-noiembrie-2025",
+      "wordCount": 101,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-13-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-17-noiembrie-2025",
+      "wordCount": 90,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-17-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-18-noiembrie-2025",
+      "wordCount": 89,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-18-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-26-noiembrie-2025",
+      "wordCount": 98,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-26-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-5-noiembrie-2025",
+      "wordCount": 94,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-5-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-7-noiembrie-2025",
+      "wordCount": 100,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-7-noiembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-9-decembrie-2025",
+      "wordCount": 102,
+      "file": "cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-9-decembrie-2025.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "conflictul-din-orientul-mijlociu-afecteaza-zborurile-internationale",
+      "wordCount": 119,
+      "file": "conflictul-din-orientul-mijlociu-afecteaza-zborurile-internationale.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cooperarea-regionala-in-europa-de-est",
+      "wordCount": 106,
+      "file": "cooperarea-regionala-in-europa-de-est.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cooperarea-romaniaucraina-continua",
+      "wordCount": 106,
+      "file": "cooperarea-romaniaucraina-continua.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cresterea-pretului-energiei-termice-in-drobeta-turnu-severin",
+      "wordCount": 97,
+      "file": "cresterea-pretului-energiei-termice-in-drobeta-turnu-severin.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cresterea-preturilor-la-carburanti-in-romania",
+      "wordCount": 91,
+      "file": "cresterea-preturilor-la-carburanti-in-romania.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "criza-energetica-europeana",
+      "wordCount": 97,
+      "file": "criza-energetica-europeana.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "cursul-valutar-fluctueaza",
+      "wordCount": 101,
+      "file": "cursul-valutar-fluctueaza.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_title",
+      "slug": "detalii-si-impact",
+      "title": "Detalii și Impact!",
+      "file": "detalii-si-impact.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "dezbaterea-bugetului-pentru-2026-se-intensifica",
+      "wordCount": 109,
+      "file": "dezbaterea-bugetului-pentru-2026-se-intensifica.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_title",
+      "slug": "din-nou-campioni",
+      "title": "din nou campioni!",
+      "file": "din-nou-campioni.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "economia-romaniei-in-2026-intre-investitii-si-riscuri",
+      "wordCount": 114,
+      "file": "economia-romaniei-in-2026-intre-investitii-si-riscuri.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "economia-romaniei-in-2026",
+      "wordCount": 101,
+      "file": "economia-romaniei-in-2026.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "germania-prelungeste-controalele-la-frontiera",
+      "wordCount": 109,
+      "file": "germania-prelungeste-controalele-la-frontiera.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "guvernul-simplifica-procedurile-pentru-investitiile-straine",
+      "wordCount": 113,
+      "file": "guvernul-simplifica-procedurile-pentru-investitiile-straine.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "leul-pierde-teren-in-fata-dolarului",
+      "wordCount": 115,
+      "file": "leul-pierde-teren-in-fata-dolarului.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "nato-isi-intareste-monitorizarea-in-regiune",
+      "wordCount": 110,
+      "file": "nato-isi-intareste-monitorizarea-in-regiune.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "nava-de-pasageri-blocata-pe-dunare-la-garla-mare",
+      "wordCount": 70,
+      "file": "nava-de-pasageri-blocata-pe-dunare-la-garla-mare.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "noi-oportunitati-de-cariera",
+      "wordCount": 98,
+      "file": "noi-oportunitati-de-cariera.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "piata-energiei-din-europa-ramane-volatila",
+      "wordCount": 107,
+      "file": "piata-energiei-din-europa-ramane-volatila.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "piata-energiei-din-europa-sub-presiune",
+      "wordCount": 113,
+      "file": "piata-energiei-din-europa-sub-presiune.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "pompierii-salveaza-muncitorul-prins-sub-mal-in-timpul-reparatiilor-la-reteaua-de-apa",
+      "wordCount": 80,
+      "file": "pompierii-salveaza-muncitorul-prins-sub-mal-in-timpul-reparatiilor-la-reteaua-de-apa.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "protest-al-iranienilor-in-fata-ambasadei-iranului",
+      "wordCount": 88,
+      "file": "protest-al-iranienilor-in-fata-ambasadei-iranului.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "romania-devine-un-hub-logistic-important-in-europa-de-est",
+      "wordCount": 110,
+      "file": "romania-devine-un-hub-logistic-important-in-europa-de-est.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "romania-monitorizeaza-situatia-de-securitate-regionala",
+      "wordCount": 105,
+      "file": "romania-monitorizeaza-situatia-de-securitate-regionala.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "schimbari-de-vreme-in-romania",
+      "wordCount": 105,
+      "file": "schimbari-de-vreme-in-romania.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "tensiuni-politice-in-jurul-marilor-reforme-economice",
+      "wordCount": 110,
+      "file": "tensiuni-politice-in-jurul-marilor-reforme-economice.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "tensiunile-de-securitate-din-europa-cresc",
+      "wordCount": 106,
+      "file": "tensiunile-de-securitate-din-europa-cresc.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "tensiunile-din-orientul-mijlociu-afecteaza-pietele-energetice",
+      "wordCount": 92,
+      "file": "tensiunile-din-orientul-mijlociu-afecteaza-pietele-energetice.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "tensiunile-din-orientul-mijlociu-cresc",
+      "wordCount": 108,
+      "file": "tensiunile-din-orientul-mijlociu-cresc.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_content",
+      "slug": "transportul-european-afectat-de-tensiuni-geopolitice",
+      "wordCount": 110,
+      "file": "transportul-european-afectat-de-tensiuni-geopolitice.md"
+    },
+    {
+      "severity": "medium",
+      "code": "short_title",
+      "slug": "victima-grav-ranita",
+      "title": "Victima grav rănită",
+      "file": "victima-grav-ranita.md"
+    },
+    {
+      "severity": "high",
+      "code": "duplicate_description",
+      "description": "în era digitală, advertoriale seo ieftine este esențial pentru vizibilitate și creștere. această postare explică cum dep",
+      "slugs": [
+        "advertoriale-seo-ieftine-marketing-digital-la-abonament",
+        "orice-afacere-are-nevoie-de-contracte-legale-ai-bine-redactate-aceasta-postare-explica-cum-contracte-app-te-poate-ajuta"
+      ]
+    },
+    {
+      "severity": "high",
+      "code": "duplicate_description",
+      "description": "marketingul bazat pe clienți reali pune autenticitatea și comunitatea în centrul strategiei de comunicare, folosind expe",
+      "slugs": [
+        "autenticitate-si-comunitate-puterea-marketingului-bazat-pe-clienti-reali",
+        "cautarea-vocala-in-crestere-pasii-esentiali-pentru-optimizarea-site-ului-tau"
+      ]
+    },
+    {
+      "severity": "high",
+      "code": "duplicate_description",
+      "description": "vizibilitatea redusă creează probleme pe mai multe drumuri.",
+      "slugs": [
+        "ceata-afecteaza-traficul-pe-autostrazi",
+        "ceata-afecteaza-traficul"
+      ]
+    },
+    {
+      "severity": "high",
+      "code": "duplicate_description",
+      "description": "în 2026, un cabinet stomatologic are nevoie de un website pentru a atrage pacienți noi și pentru a rămâne relevant într-",
+      "slugs": [
+        "de-ce-iti-trebuie-un-site-in-2026-cum-sa-atragi-noi-clienti-si-sa-ramai-relevant-ghid-pentru-service-uri-auto",
+        "de-ce-iti-trebuie-un-site-in-2026-cum-sa-atragi-noi-clienti-si-sa-ramai-relevant"
+      ]
+    },
+    {
+      "severity": "high",
+      "code": "duplicate_description",
+      "description": "gestionarea finanțelor și monitorizare cheltuieli pot fi provocatoare fără instrumente adecvate. această postare explică",
+      "slugs": [
+        "in-lumea-auto-puterea-motorului-comparatie-este-o-prioritate-pentru-multi-cumparatori-aceasta-postare-explica-cum-cautimasina-ro-te-poate-ajuta",
+        "monitorizare-cheltuieli-solutii-inteligente-de-economisire"
+      ]
+    }
+  ]
+}

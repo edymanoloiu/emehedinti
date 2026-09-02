@@ -125,7 +125,7 @@ export async function getServerSideProps({ params, query }) {
 		};
 	}
 
-	const allPosts = getAllPosts([
+	const allPosts = await getAllPosts([
 		'slug',
 		'cate',
 		'cate_img',

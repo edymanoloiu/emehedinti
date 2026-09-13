@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Farmacii de garda Baia de Aramă'
+title: 'Farmacii de gardă Baia de Aramă'
 excerpt: 'DSP nu publică tabel. Dr. Max, Victoriei 7, e singura unitate indexată. După închidere: Craiova, nu camera de gardă a spitalului orășenesc.'
 featureImg: /images/posts/farmacii-de-garda-baia-de-arama.webp
 thumb: /images/posts/farmacii-de-garda-baia-de-arama.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Farmacii de garda Baia de Aramă](/images/posts/farmacii-de-garda-baia-de-arama.webp)
+![Farmacii de gardă Baia de Aramă](/images/posts/farmacii-de-garda-baia-de-arama.webp)
 
-# Farmacii de garda Baia de Aramă
+# Farmacii de gardă Baia de Aramă
 
 **Răspuns rapid:** Citești avizierul de la **Dr. Max, Victoriei 7**. **dspmh.ro** nu are calendar. Camera de gardă a **Spitalului Orășenesc** (Iulian Predescu 12) **nu înlocuiește** o farmacie comunitară. Zero 24/7 în județ.
 

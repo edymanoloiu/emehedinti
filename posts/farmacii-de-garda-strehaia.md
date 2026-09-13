@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Farmacii de garda Strehaia'
+title: 'Farmacii de gardă Strehaia'
 excerpt: 'DSP nu publică tabel. Cinci farmacii. După închidere: Craiova, nu un spital desființat. 0252 323 638.'
 featureImg: /images/posts/farmacii-de-garda-strehaia.webp
 thumb: /images/posts/farmacii-de-garda-strehaia.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Farmacii de garda Strehaia](/images/posts/farmacii-de-garda-strehaia.webp)
+![Farmacii de gardă Strehaia](/images/posts/farmacii-de-garda-strehaia.webp)
 
-# Farmacii de garda Strehaia
+# Farmacii de gardă Strehaia
 
 **Răspuns rapid:** Citești avizierul de la **Catena Cuza 2**, **Catena Republicii 175** și **Dr. Max Cuza 2**. **dspmh.ro** nu are calendar. Farmacia de spital nu înlocuiește comunitara: **Spitalul Orășenesc Strehaia a fost desființat prin HG 1132/2012**.
 

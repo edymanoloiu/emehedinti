@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Benzinarii non stop Orșova'
+title: 'Benzinării non stop Orșova'
 excerpt: 'PETROM Orșova, str. Eroilor 14A, e în lista OMV Petrom. Orarul 24/7 nu e în PDF. Confirmă în localizator. OMV-urile 24h verificate sunt la Drobeta.'
 featureImg: /images/posts/benzinarii-non-stop-orsova.webp
 thumb: /images/posts/benzinarii-non-stop-orsova.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Benzinarii non stop Orșova](/images/posts/benzinarii-non-stop-orsova.webp)
+![Benzinării non stop Orșova](/images/posts/benzinarii-non-stop-orsova.webp)
 
-# Benzinarii non stop Orșova
+# Benzinării non stop Orșova
 
 **Răspuns rapid:** Lista de locații OMV Petrom include **PETROM Orșova, strada Eroilor nr. 14A**. **Nu scrie 24/7 în PDF.** Verifică [localizatorul Petrom](https://www.petrom.ro/ro/localizator-statii). Stațiile **OMV din Drobeta** (Splai / Brătianu și Nicolae Iorga 16) sunt listate non-stop pe GazOnline.
 

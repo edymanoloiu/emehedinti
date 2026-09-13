@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Stomatologie urgenta Strehaia'
+title: 'Stomatologie urgență Strehaia'
 excerpt: 'Spitalul orășenesc a fost desființat în 2012. Unicul cabinet UPU dentar de stat: SJU Drobeta, Mihai Viteazul 6D, 0252 313 751.'
 featureImg: /images/posts/stomatologie-urgenta-strehaia.webp
 thumb: /images/posts/stomatologie-urgenta-strehaia.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Stomatologie urgenta Strehaia](/images/posts/stomatologie-urgenta-strehaia.webp)
+![Stomatologie urgență Strehaia](/images/posts/stomatologie-urgenta-strehaia.webp)
 
-# Stomatologie urgenta Strehaia
+# Stomatologie urgență Strehaia
 
 **Răspuns rapid:** **HG 1132/2012** a desființat **Spitalul Orășenesc Strehaia** (Republicii 159). Urgența dentară de stat a județului e la **SJU Drobeta**, **0252 313 751**. Nu trimitem cititorul la un spital închis.
 

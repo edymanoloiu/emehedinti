@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Spital urgente Strehaia'
+title: 'Spital urgențe Strehaia'
 excerpt: 'Spitalul Orășenesc Strehaia a fost desființat prin HG 1132/2012. Urgențele merg la SJU Drobeta, 0252 313 751. 112.'
 featureImg: /images/posts/spital-urgente-strehaia.webp
 thumb: /images/posts/spital-urgente-strehaia.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Spital urgente Strehaia](/images/posts/spital-urgente-strehaia.webp)
+![Spital urgențe Strehaia](/images/posts/spital-urgente-strehaia.webp)
 
-# Spital urgente Strehaia
+# Spital urgențe Strehaia
 
 **Răspuns rapid:** **Nu trimiteți pe cineva la Republicii 159 ca la un spital deschis.** **HG 1132/27.11.2012** a desființat Spitalul Orășenesc Strehaia. UPU județean: **SJU Drobeta-Turnu Severin**, contact **Bd. Mihai Viteazul 6D**, **0252 313 751**. **112**.
 

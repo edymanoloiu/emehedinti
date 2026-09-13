@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Spital urgente Vânju Mare'
+title: 'Spital urgențe Vânju Mare'
 excerpt: 'Spitalul Orășenesc Vânju Mare a fost desființat prin HG 1132/2012. Urgențele merg la SJU Drobeta, 0252 313 751. 112.'
 featureImg: /images/posts/spital-urgente-vanju-mare.webp
 thumb: /images/posts/spital-urgente-vanju-mare.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Spital urgente Vânju Mare](/images/posts/spital-urgente-vanju-mare.webp)
+![Spital urgențe Vânju Mare](/images/posts/spital-urgente-vanju-mare.webp)
 
-# Spital urgente Vânju Mare
+# Spital urgențe Vânju Mare
 
 **Răspuns rapid:** **Nu trimiteți pe cineva la Rahovei 6 ca la un spital deschis.** **HG 1132/27.11.2012** a desființat Spitalul Orășenesc Vânju Mare. UPU județean: **SJU Drobeta-Turnu Severin**, contact **Bd. Mihai Viteazul 6D**, **0252 313 751**. **112**.
 

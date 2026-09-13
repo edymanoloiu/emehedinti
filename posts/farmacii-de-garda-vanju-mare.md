@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Farmacii de garda Vânju Mare'
+title: 'Farmacii de gardă Vânju Mare'
 excerpt: 'dspmh.ro nu publică calendar. Vânju Mare lipsește de pe lista de orașe HartaFarmacii. După închidere: Strehaia, Drobeta sau Craiova.'
 featureImg: /images/posts/farmacii-de-garda-vanju-mare.webp
 thumb: /images/posts/farmacii-de-garda-vanju-mare.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Farmacii de garda Vânju Mare](/images/posts/farmacii-de-garda-vanju-mare.webp)
+![Farmacii de gardă Vânju Mare](/images/posts/farmacii-de-garda-vanju-mare.webp)
 
-# Farmacii de garda Vânju Mare
+# Farmacii de gardă Vânju Mare
 
 **Răspuns rapid:** **DSP Mehedinți** (**0252 323 638**) nu are pe homepage un tabel de gardă pe zile. HartaFarmacii **nu listează Vânju Mare** între orașele cu farmacii. Garda, dacă există la o ușă din oraș, se citește pe avizier — nu o inventăm aici.
 

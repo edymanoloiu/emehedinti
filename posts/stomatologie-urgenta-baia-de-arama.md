@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Stomatologie urgenta Baia de Aramă'
+title: 'Stomatologie urgență Baia de Aramă'
 excerpt: 'Spitalul orășenesc are cameră de gardă, nu cabinet UPU stomatologic județean. Dentar de stat: SJU Drobeta, 0252 313 751.'
 featureImg: /images/posts/stomatologie-urgenta-baia-de-arama.webp
 thumb: /images/posts/stomatologie-urgenta-baia-de-arama.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Stomatologie urgenta Baia de Aramă](/images/posts/stomatologie-urgenta-baia-de-arama.webp)
+![Stomatologie urgență Baia de Aramă](/images/posts/stomatologie-urgenta-baia-de-arama.webp)
 
-# Stomatologie urgenta Baia de Aramă
+# Stomatologie urgență Baia de Aramă
 
 **Răspuns rapid:** **Spitalul Orășenesc Baia de Aramă**, Iulian Predescu 12, are **cameră de gardă** (**0785 236 046**), nu cabinetul UPU stomatologic al județului. Urgența dentară de stat: **SJU Drobeta**, **0252 313 751**. Aproximativ 70 km.
 

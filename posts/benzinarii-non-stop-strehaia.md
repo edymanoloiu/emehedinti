@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Benzinarii non stop Strehaia'
+title: 'Benzinării non stop Strehaia'
 excerpt: 'OMV Strehaia, Republicii 413, e în lista OMV Petrom. Orarul 24/7 nu e în PDF. Confirmă în localizator. OMV-urile 24h verificate sunt la Drobeta.'
 featureImg: /images/posts/benzinarii-non-stop-strehaia.webp
 thumb: /images/posts/benzinarii-non-stop-strehaia.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Benzinarii non stop Strehaia](/images/posts/benzinarii-non-stop-strehaia.webp)
+![Benzinării non stop Strehaia](/images/posts/benzinarii-non-stop-strehaia.webp)
 
-# Benzinarii non stop Strehaia
+# Benzinării non stop Strehaia
 
 **Răspuns rapid:** Lista de locații OMV Petrom include **OMV Strehaia, strada Republicii nr. 413**. **Nu scrie 24/7 în PDF.** Verifică [localizatorul](https://www.omv.ro/ro-ro/statii). Stațiile **OMV din Drobeta** (Splai / Brătianu și Nicolae Iorga 16) sunt listate non-stop pe GazOnline.
 

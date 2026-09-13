@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Farmacii de garda Orșova'
+title: 'Farmacii de gardă Orșova'
 excerpt: 'DSP Mehedinți nu publică garda zilei. Cinci farmacii în oraș. După închidere: Drobeta sau Catena Craiova. 0252 323 638.'
 featureImg: /images/posts/farmacii-de-garda-orsova.webp
 thumb: /images/posts/farmacii-de-garda-orsova.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Farmacii de garda Orșova](/images/posts/farmacii-de-garda-orsova.webp)
+![Farmacii de gardă Orșova](/images/posts/farmacii-de-garda-orsova.webp)
 
-# Farmacii de garda Orșova
+# Farmacii de gardă Orșova
 
 **Răspuns rapid:** Garda se citește pe **ușa Catena (Centru Civic 9), Dr. Max din complex și Farmacia Diana (Porțile de Fier 8)**. **dspmh.ro** nu are calendar. HartaFarmacii: **5 puncte**, **zero 24/7 în județ**. După închidere, **SJU Drobeta** nu vinde medicamente ca o comunitară; traseul de lanț e **Craiova**.
 

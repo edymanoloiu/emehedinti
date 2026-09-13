@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Spital urgente Orșova'
+title: 'Spital urgențe Orșova'
 excerpt: 'Spitalul Municipal, Bd. Porțile de Fier 34, 0252 361 908, e activ. UPU județean: SJU Drobeta, Mihai Viteazul 6D, 0252 313 751. Grav: 112.'
 featureImg: /images/posts/spital-urgente-orsova.webp
 thumb: /images/posts/spital-urgente-orsova.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Spital urgente Orșova](/images/posts/spital-urgente-orsova.webp)
+![Spital urgențe Orșova](/images/posts/spital-urgente-orsova.webp)
 
-# Spital urgente Orșova
+# Spital urgențe Orșova
 
 **Răspuns rapid:** **Spitalul Municipal Orșova**, **Bulevardul Porțile de Fier nr. 34**, telefoane **0252 361 908** și **0252 361 909**, are site propriu și date de activitate pentru **2025–2026**. Nu e clasificat ca UPU județean. **Unitatea de primiri urgențe de referință a județului** e **SJU Drobeta**, **Bd. Mihai Viteazul 6D**, **0252 313 751**. În pericol imediat: **112**; dispeceratul alege destinația.
 

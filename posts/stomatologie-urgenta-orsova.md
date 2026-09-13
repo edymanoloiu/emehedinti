@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Stomatologie urgenta Orșova'
+title: 'Stomatologie urgență Orșova'
 excerpt: 'Un singur cabinet de urgență dentară de stat pe județ, în UPU SJU, Bd. Mihai Viteazul 6D. 0252 313 751. Spitalul din Orșova nu îl înlocuiește.'
 featureImg: /images/posts/stomatologie-urgenta-orsova.webp
 thumb: /images/posts/stomatologie-urgenta-orsova.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Stomatologie urgenta Orșova](/images/posts/stomatologie-urgenta-orsova.webp)
+![Stomatologie urgență Orșova](/images/posts/stomatologie-urgenta-orsova.webp)
 
-# Stomatologie urgenta Orșova
+# Stomatologie urgență Orșova
 
 **Răspuns rapid:** Ordinul 1706/2007 pune **un singur cabinet de medicină dentară de urgență pe județ**, în UPU-ul reședinței. Pentru Orșova, asta înseamnă **SJU Drobeta, Bd. Mihai Viteazul 6D**, **0252 313 751**. **Spitalul Municipal Orșova**, Bd. Porțile de Fier 34, **0252 361 908**, e spital activ (date 2025–2026 pe site), **nu e cabinetul UPU dentar al județului**.
 

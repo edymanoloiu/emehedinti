@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Benzinarii non stop Baia de Aramă'
+title: 'Benzinării non stop Baia de Aramă'
 excerpt: 'PDF-ul din iunie 2025 nu include Baia de Aramă. GazOnline listează un Petrom pe Tudor Vladimirescu 27, 0372 484 014, fără marcaj 24/7. Confirmă în localizator.'
 featureImg: /images/posts/benzinarii-non-stop-baia-de-arama.webp
 thumb: /images/posts/benzinarii-non-stop-baia-de-arama.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Benzinarii non stop Baia de Aramă](/images/posts/benzinarii-non-stop-baia-de-arama.webp)
+![Benzinării non stop Baia de Aramă](/images/posts/benzinarii-non-stop-baia-de-arama.webp)
 
-# Benzinarii non stop Baia de Aramă
+# Benzinării non stop Baia de Aramă
 
 **Răspuns rapid:** Lista de locații OMV Petrom (iunie 2025) pentru Mehedinți **nu include Baia de Aramă**. GazOnline listează un **Petrom, Strada Tudor Vladimirescu nr. 27**, telefon **0372 484 014**, **fără marcaj non-stop**. Verifică [localizatorul Petrom](https://www.petrom.ro/ro/localizator-statii). Stațiile **OMV din Drobeta** (Splai și Nicolae Iorga 16) sunt în PDF și listate 24h pe GazOnline.
 

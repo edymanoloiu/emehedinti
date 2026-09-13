@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Spital urgente Drobeta-Turnu Severin'
+title: 'Spital urgențe Drobeta-Turnu Severin'
 excerpt: 'SJU, Bd. Mihai Viteazul 6D, 0252 313 751. Multipavilionar. Vizite 14:00–16:00. Duminica UPU e deschis; cabinetele programate, nu.'
 featureImg: /images/posts/upu-spital-judetean-severin.webp
 thumb: /images/posts/upu-spital-judetean-severin.webp
@@ -22,9 +22,9 @@ tags:
 - UPU
 ---
 
-![Spital urgente Drobeta-Turnu Severin](/images/posts/upu-spital-judetean-severin.webp)
+![Spital urgențe Drobeta-Turnu Severin](/images/posts/upu-spital-judetean-severin.webp)
 
-# Spital urgente Drobeta-Turnu Severin
+# Spital urgențe Drobeta-Turnu Severin
 
 **Răspuns rapid:** Primirile de urgență din municipiu sunt la **Spitalul Județean de Urgență**. Adresa de pe site: **Bd. Mihai Viteazul 6D**. **0252 313 751** centrala, **0352 401 303** secretariat. UPU nu se închide duminică. Dacă nu poți conduce, **112**.
 

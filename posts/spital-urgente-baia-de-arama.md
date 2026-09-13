@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Spital urgente Baia de Aramă'
+title: 'Spital urgențe Baia de Aramă'
 excerpt: 'Spitalul Orășenesc, Iulian Predescu 12, 0252 381 052. Camera de gardă: 0785 236 046. Nu e UPU județean. Cazurile grele: Drobeta, 112.'
 featureImg: /images/posts/spital-urgente-baia-de-arama.webp
 thumb: /images/posts/spital-urgente-baia-de-arama.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Spital urgente Baia de Aramă](/images/posts/spital-urgente-baia-de-arama.webp)
+![Spital urgențe Baia de Aramă](/images/posts/spital-urgente-baia-de-arama.webp)
 
-# Spital urgente Baia de Aramă
+# Spital urgențe Baia de Aramă
 
 **Răspuns rapid:** **Spitalul Orășenesc Baia de Aramă** funcționează, pe site-ul propriu, la **Strada Iulian Predescu nr. 12**, telefon central **0252 381 052**. **Camera de gardă: 0785 236 046**. Este spital local, nu UPU-ul județean. Urgențele grave și stomatologia UPU: **SJU Drobeta**, **0252 313 751**. **112**.
 

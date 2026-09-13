@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Stomatologie urgenta Vânju Mare'
+title: 'Stomatologie urgență Vânju Mare'
 excerpt: 'Spitalul orășenesc a fost desființat în 2012. Unicul cabinet UPU dentar de stat: SJU Drobeta, 0252 313 751.'
 featureImg: /images/posts/stomatologie-urgenta-vanju-mare.webp
 thumb: /images/posts/stomatologie-urgenta-vanju-mare.webp
@@ -21,9 +21,9 @@ tags:
 - Mehedinți
 ---
 
-![Stomatologie urgenta Vânju Mare](/images/posts/stomatologie-urgenta-vanju-mare.webp)
+![Stomatologie urgență Vânju Mare](/images/posts/stomatologie-urgenta-vanju-mare.webp)
 
-# Stomatologie urgenta Vânju Mare
+# Stomatologie urgență Vânju Mare
 
 **Răspuns rapid:** **HG 1132/2012** a desființat **Spitalul Orășenesc Vânju Mare** (Rahovei 6). Urgența dentară de stat a județului e la **SJU Drobeta-Turnu Severin**, contact **Bd. Mihai Viteazul 6D**, **0252 313 751**. Nu trimitem cititorul la un spital închis.
 

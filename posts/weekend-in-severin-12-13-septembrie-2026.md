@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Weekend în Drobeta, 12–13 septembrie 2026: fără spectacol pe site-ul palatului'
+title: 'Evenimente Drobeta-Turnu Severin weekend'
 excerpt: 'Sâmbătă și duminică nu apar pe agenda Costescu. Nu confundați cu festivalul folcloric din 2025. 22 septembrie e titlul cu dată.'
 featureImg: /images/posts/weekend-in-severin-12-13-septembrie-2026.webp
 thumb: /images/posts/weekend-in-severin-12-13-septembrie-2026.webp
@@ -22,9 +22,9 @@ tags:
 - Palatul Costescu
 ---
 
-![Weekend în Drobeta, 12–13 septembrie 2026: fără spectacol pe site-ul palatului](/images/posts/weekend-in-severin-12-13-septembrie-2026.webp)
+![Evenimente Drobeta-Turnu Severin weekend](/images/posts/weekend-in-severin-12-13-septembrie-2026.webp)
 
-# Weekend în Drobeta, 12–13 septembrie 2026: fără spectacol pe site-ul palatului
+# Evenimente Drobeta-Turnu Severin weekend
 
 **Răspuns rapid:** **12 și 13 septembrie 2026** nu sunt pe lista de evenimente a Palatului Costescu, la consultare. Nu mutăm aici piese din Galați și nu reciclam „Cântec Nou în Mehedinți” din **septembrie 2025**. Un eveniment cu zi, oră și sală: **22 septembrie, 19:00**, „Dragoste în două acte”.
 

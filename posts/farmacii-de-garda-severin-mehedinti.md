@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Garda la farmacie în Drobeta: DSP nu publică tabelul, avizierul da'
+title: 'Farmacii de garda Drobeta-Turnu Severin'
 excerpt: 'Pe dspmh.ro nu e calendar zilnic. Ușa farmaciilor și telefonul punctului. După închidere: Catena Craiova, nu o adresă din Severin.'
 featureImg: /images/posts/farmacii-de-garda-severin-mehedinti.webp
 thumb: /images/posts/farmacii-de-garda-severin-mehedinti.webp
@@ -22,9 +22,9 @@ tags:
 - Sănătate
 ---
 
-![Garda la farmacie în Drobeta: DSP nu publică tabelul, avizierul da](/images/posts/farmacii-de-garda-severin-mehedinti.webp)
+![Farmacii de garda Drobeta-Turnu Severin](/images/posts/farmacii-de-garda-severin-mehedinti.webp)
 
-# Garda la farmacie în Drobeta: DSP nu publică tabelul, avizierul da
+# Farmacii de garda Drobeta-Turnu Severin
 
 **Răspuns rapid:** Colegiul și DSP stabilesc cine stă de serviciu. **Direcția de Sănătate Publică Mehedinți** (0252 323 638) **nu afișează pe homepage**, la 13 septembrie 2026, farmacia zilei. Citești hârtia de pe ușă. HartaFarmacii pune Drobeta la **7 unități cu program prelungit** și **niciun non-stop**. Când se sting luminile din municipiu, lista Catena (21 ianuarie 2026) duce la **Craiova**.
 

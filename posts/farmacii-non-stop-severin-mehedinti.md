@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Non-stop la farmacie, în Drobeta: județul nu e pe lista Catena'
+title: 'Farmacii non stop Drobeta-Turnu Severin'
 excerpt: 'Nici HartaFarmacii, nici lista Catena din 21 ianuarie 2026 nu arată o unitate 24/7 în Mehedinți. Noaptea, Craiova: Oltenia 45.'
 featureImg: /images/posts/farmacii-non-stop-severin-mehedinti.webp
 thumb: /images/posts/farmacii-non-stop-severin-mehedinti.webp
@@ -22,9 +22,9 @@ tags:
 - Sănătate
 ---
 
-![Non-stop la farmacie, în Drobeta: județul nu e pe lista Catena](/images/posts/farmacii-non-stop-severin-mehedinti.webp)
+![Farmacii non stop Drobeta-Turnu Severin](/images/posts/farmacii-non-stop-severin-mehedinti.webp)
 
-# Non-stop la farmacie, în Drobeta: județul nu e pe lista Catena
+# Farmacii non stop Drobeta-Turnu Severin
 
 **Răspuns rapid:** Dacă cauți medicamente după miezul nopții în municipiul de reședință al Mehedințiului, **nu există, la 13 septembrie 2026, o farmacie comunitară 24/7 confirmată de un lanț**. Catena a actualizat lista națională de unități non-stop pe **21 ianuarie 2026**: 11 adrese, **zero în Mehedinți și zero în Gorj**. În Oltenia, punctele din acea listă sunt la **Craiova** — Bulevardul Oltenia 45 și Bulevardul Nicolae Titulescu 17, bloc I5. Urgență medicală: **112**.
 

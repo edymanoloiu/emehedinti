@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Farmacii deschise duminică în Drobeta, 13 septembrie 2026'
+title: 'Farmacii deschise acum Drobeta-Turnu Severin'
 excerpt: 'DSP nu ține un „deschis acum”. Help Net nu are pagină de locație pentru Drobeta. Sună Catena sau Dona. Noaptea: Craiova.'
 featureImg: /images/posts/farmacii-deschise-duminica-severin-13-septembrie.webp
 thumb: /images/posts/farmacii-deschise-duminica-severin-13-septembrie.webp
@@ -22,9 +22,9 @@ tags:
 - Sănătate
 ---
 
-![Farmacii deschise duminică în Drobeta, 13 septembrie 2026](/images/posts/farmacii-deschise-duminica-severin-13-septembrie.webp)
+![Farmacii deschise acum Drobeta-Turnu Severin](/images/posts/farmacii-deschise-duminica-severin-13-septembrie.webp)
 
-# Farmacii deschise duminică în Drobeta, 13 septembrie 2026
+# Farmacii deschise acum Drobeta-Turnu Severin
 
 **Răspuns rapid:** Azi e **duminică**. Nu există buletin DSP „deschis acum” pentru municipiu. HartaFarmacii calculează statusul din orare declarate și **nu pune nicio 24/7 în Drobeta**. Locatorul Help Net, la verificare, trece Târgu Jiu, nu Turnu Severin — deci **nu publicăm orar Help Net local**. Rămân telefoanele Catena și Dona. După închidere: **Catena Craiova**.
 

@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Veterinar noaptea, în Drobeta: nu e clinică 24/7, e program de zi'
+title: 'Veterinar non stop Drobeta-Turnu Severin'
 excerpt: 'SebVet Happy Pet, Crișan bl. N3, 0773 797 348. L–V 09–18, sâmbătă 09–13, duminică doar tratamente. Platformele de domiciliu nu sunt gardă locală.'
 featureImg: /images/posts/veterinar-noapte-severin.webp
 thumb: /images/posts/veterinar-noapte-severin.webp
@@ -22,9 +22,9 @@ tags:
 - Animale
 ---
 
-![Veterinar noaptea, în Drobeta: nu e clinică 24/7, e program de zi](/images/posts/veterinar-noapte-severin.webp)
+![Veterinar non stop Drobeta-Turnu Severin](/images/posts/veterinar-noapte-severin.webp)
 
-# Veterinar noaptea, în Drobeta: nu e clinică 24/7, e program de zi
+# Veterinar non stop Drobeta-Turnu Severin
 
 **Răspuns rapid:** **Nu avem o clinică veterinară din municipiu cu orar 24/7 pe site propriu.** SebVet Happy Pet, **bloc N3, strada Crișan**, publică luni–vineri 09:00–18:00, sâmbătă 09:00–13:00 și **duminică doar tratamente**. **0773 797 348**, sebvethappypet@yahoo.com. Azi, 13 septembrie, nu e non-stop.
 

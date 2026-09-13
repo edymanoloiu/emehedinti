@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Pană noaptea, în Drobeta: Aluniș 25 e listat 24h, ceilalți lucrează ziua'
+title: 'Vulcanizare non stop Drobeta-Turnu Severin'
 excerpt: 'Bd. Aluniș 25, 0764 711 279, orar 00–24 în agregatoare, ~60 recenzii. Ioji și Bugrasamed au program de zi. 0750 291 020 e platformă națională.'
 featureImg: /images/posts/vulcanizare-noapte-severin.webp
 thumb: /images/posts/vulcanizare-noapte-severin.webp
@@ -22,9 +22,9 @@ tags:
 - Auto
 ---
 
-![Pană noaptea, în Drobeta: Aluniș 25 e listat 24h, ceilalți lucrează ziua](/images/posts/vulcanizare-noapte-severin.webp)
+![Vulcanizare non stop Drobeta-Turnu Severin](/images/posts/vulcanizare-noapte-severin.webp)
 
-# Pană noaptea, în Drobeta: Aluniș 25 e listat 24h, ceilalți lucrează ziua
+# Vulcanizare non stop Drobeta-Turnu Severin
 
 **Răspuns rapid:** Pe **Bulevardul Aluniș 25** un atelier apare cu **program 00–24** și **circa 4 din 5, din ~60 de recenzii** (map24, citymaps). **0764 711 279**. Nu are site propriu care să reconfirme. Duminică noaptea, sună. Restul punctelor cu adresă au orar de zi.
 

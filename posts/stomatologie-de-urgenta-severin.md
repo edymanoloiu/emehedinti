@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Dinte rupt noaptea, în Drobeta: UPU stomatologic de la județean'
+title: 'Stomatologie urgenta Drobeta-Turnu Severin'
 excerpt: 'Cabinetul de medicină dentară de urgență e în UPU, Bd. Mihai Viteazul 6D. Centrală 0252 313 751. Un singur astfel de cabinet pe județ.'
 featureImg: /images/posts/stomatologie-de-urgenta-severin.webp
 thumb: /images/posts/stomatologie-de-urgenta-severin.webp
@@ -22,9 +22,9 @@ tags:
 - UPU
 ---
 
-![Dinte rupt noaptea, în Drobeta: UPU stomatologic de la județean](/images/posts/stomatologie-de-urgenta-severin.webp)
+![Stomatologie urgenta Drobeta-Turnu Severin](/images/posts/stomatologie-de-urgenta-severin.webp)
 
-# Dinte rupt noaptea, în Drobeta: UPU stomatologic de la județean
+# Stomatologie urgenta Drobeta-Turnu Severin
 
 **Răspuns rapid:** În Mehedinți, cabinetul de urgență dentară finanțat de stat stă la **Spitalul Județean**, în **UPU**, **Bulevardul Mihai Viteazul 6D**. Centrală: **0252 313 751**. Pe site sunt listați medici dentiști UPU. Fișierul **0352 881 073** e pentru programări de specialitate, nu pentru abcesul de la 2 noaptea.
 

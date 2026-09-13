@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Benzină noaptea, în Drobeta: două OMV pe lista de locații'
+title: 'Benzinarii non stop Drobeta-Turnu Severin'
 excerpt: 'OMV Splai / Brătianu, 0372 484 049, și OMV Iorga 16, 0372 428 404, non-stop pe GazOnline. Petrom Timișoarei 183 e în lista oficială, fără orar 24h în PDF.'
 featureImg: /images/posts/benzinarie-24h-severin.webp
 thumb: /images/posts/benzinarie-24h-severin.webp
@@ -22,9 +22,9 @@ tags:
 - OMV
 ---
 
-![Benzină noaptea, în Drobeta: două OMV pe lista de locații](/images/posts/benzinarie-24h-severin.webp)
+![Benzinarii non stop Drobeta-Turnu Severin](/images/posts/benzinarie-24h-severin.webp)
 
-# Benzină noaptea, în Drobeta: două OMV pe lista de locații
+# Benzinarii non stop Drobeta-Turnu Severin
 
 **Răspuns rapid:** Două **OMV** din municipiu sunt în lista oficială de locații OMV Petrom și apar **non-stop** pe GazOnline: **Splaiul Mihai Viteazul / I.C. Brătianu**, **0372 484 049**, și **Nicolae Iorga 16** (spre Craiova), **0372 428 404**. Magazinul poate fi închis. Uită-te în [localizatorul OMV](https://www.omv.ro/ro/mobilitate/carburanti/localizare-statii-omv).
 

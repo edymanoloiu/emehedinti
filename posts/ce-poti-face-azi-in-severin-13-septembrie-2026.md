@@ -1,7 +1,7 @@
 ---
 postFormat: 'text'
 trending: false
-title: 'Duminică în Drobeta, 13 septembrie 2026: palatul nu are afiș pentru azi'
+title: 'Evenimente Drobeta-Turnu Severin azi'
 excerpt: 'palatulculturiiseverin.ro nu listează spectacol pe 13 septembrie. Titlul cu dată e 22 septembrie, ora 19:00. Bd. Carol I 4.'
 featureImg: /images/posts/ce-poti-face-azi-in-severin-13-septembrie-2026.webp
 thumb: /images/posts/ce-poti-face-azi-in-severin-13-septembrie-2026.webp
@@ -22,9 +22,9 @@ tags:
 - Palatul Costescu
 ---
 
-![Duminică în Drobeta, 13 septembrie 2026: palatul nu are afiș pentru azi](/images/posts/ce-poti-face-azi-in-severin-13-septembrie-2026.webp)
+![Evenimente Drobeta-Turnu Severin azi](/images/posts/ce-poti-face-azi-in-severin-13-septembrie-2026.webp)
 
-# Duminică în Drobeta, 13 septembrie 2026: palatul nu are afiș pentru azi
+# Evenimente Drobeta-Turnu Severin azi
 
 **Răspuns rapid:** La **Palatul Culturii „Teodor Costescu”**, **Bulevardul Carol I 4**, pagina de evenimente **nu are spectacol datat 13 septembrie 2026**. „Evenimente curente” era fără afișe. Zile și Nopți ține **22 septembrie, 19:00**, „Dragoste în două acte”, cu Maia Morgenstern și Marius Bodochi. Nu umplem duminica cu titluri din altă lună.
 

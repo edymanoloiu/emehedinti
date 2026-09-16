@@ -58,6 +58,7 @@ const HomeOne = ({
 			<GillionImportedFeeds
 				nationalPosts={sortRssItemsByDateDesc(sitemaps?.pc ?? [])}
 				partnerPosts={partnerPosts}
+				autoPosts={sortRssItemsByDateDesc(sitemaps?.cm ?? []).slice(0, 6)}
 			/>
 			<GillionNewestGrid posts={latestPosts} sidebarPosts={sidebarPosts} />
 			<GillionSiteFooter recentPosts={recentPosts} footerCategories={footerCategories} />

@@ -70,11 +70,12 @@ const PartnerRow = ({ item }) => {
 	);
 };
 
-const GillionImportedFeeds = ({ nationalPosts = [], partnerPosts = [] }) => {
+const GillionImportedFeeds = ({ nationalPosts = [], partnerPosts = [], autoPosts = [] }) => {
 	const national = (nationalPosts || []).slice(0, 3);
 	const partners = (partnerPosts || []).slice(0, BINE_DE_STIUT_HOME_LIMIT);
+	const auto = (autoPosts || []).slice(0, 6);
 
-	if (!national.length && !partners.length) return null;
+	if (!national.length && !partners.length && !auto.length) return null;
 
 	return (
 		<>
@@ -90,6 +91,29 @@ const GillionImportedFeeds = ({ nationalPosts = [], partnerPosts = [] }) => {
 						<div className="gillion-card-row">
 							{national.map((item, index) => (
 								<NationalCard key={item?.guid || item?.link || index} item={item} />
+							))}
+						</div>
+					</div>
+				</section>
+			)}
+
+			
+			{auto.length > 0 && (
+				<section className="gillion-page-section gillion-page-section--alt">
+					<div className="gillion-page-section__inner">
+						<div className="gillion-section-head gillion-section-head--accent">
+							<h2>
+								<a href="https://cautimasina.ro/" target="_blank" rel="noopener noreferrer">
+									Auto
+								</a>
+							</h2>
+							<a href="https://cautimasina.ro/" className="gillion-section-head__link" target="_blank" rel="noopener noreferrer">
+								Mai multe pe CautiMasina
+							</a>
+						</div>
+						<div className="gillion-tabbed__list gillion-tabbed__list--partners">
+							{auto.map((item, index) => (
+								<PartnerRow key={item?.guid || item?.link || index} item={item} />
 							))}
 						</div>
 					</div>

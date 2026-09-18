@@ -44,6 +44,18 @@ Prezumția de nevinovăție se aplică oricărei persoane care ar ajunge în cer
 
 Sinteză: 93 evenimente (80 via 112); 108 testări alcool/psihoactive; 275 auto + 362 persoane e-DAC; 247 sancțiuni, peste 81.000 lei; 13 drepturi de a conduce suspendate; 14 certificate de înmatriculare retrase până la remediere — toate pe 17 septembrie 2026, în Mehedinți.
 
+Ordinea din comunicatul oficial începe cu obiectivele acțiunilor — ordine publică, legislație rutieră, substanțe interzise, persoane urmărite — și continuă cu cifrele de intervenție. Cele 93 de evenimente, dintre care 80 prin 112, arată volumul de lucru din teren pe 17 septembrie.
+
+Testările pe 108 conducători auto și verificările e-DAC pe 275 de autovehicule și 362 de persoane sunt prezentate ca instrumente de prevenire și constatare. Apoi vin măsurile: 247 de sancțiuni, peste 81.000 de lei, 13 șoferi cu dreptul de a conduce suspendat, 14 certificate de înmatriculare retrase.
+
+Retragerea certificatelor este legată explicit de vehicule care nu prezentau siguranță în trafic. Până la remediere, acele mașini rămân oprite din circulație pe drumurile publice, potrivit anunțului. Tipul remedierii nu este detaliat.
+
+Suspendarea dreptului de a conduce pentru 13 persoane este justificată în text prin aprecierea că ar fi reprezentat un pericol pentru ceilalți participanți. Nu apar nume și nici localități pentru fiecare caz.
+
+Bilantul este pe județul Mehedinți, pe ziua de 17 septembrie, publicat pe 18 septembrie. Nu există o împărțire pe Drobeta-Turnu Severin, Orșova sau alte localități. Cititorii din tot județul primesc aceleași cifre agregate.
+
+Elementele de reținut: 93 / 80 evenimente; 108 testări; 275 auto și 362 persoane e-DAC; 247 sancțiuni; peste 81.000 lei; 13 suspendări; 14 certificate retrase.
+
 ## Surse
 
 - https://mh.politiaromana.ro/ro/stiri-si-media/stiri/stire-de-presa-18-09-20261789725559

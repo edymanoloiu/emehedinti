@@ -42,6 +42,20 @@ Poliția orașului Vânju Mare a fost structura care s-a deplasat la fața locul
 
 Orice afirmație despre vinovăție definitivă ar depăși stadiul actual al cauzei, așa cum este prezentată oficial. Ce se știe acum: coliziune, pagube, 0,91 mg/l la etilotest pentru unul dintre șoferi, negativ pentru celălalt, probe biologice, dosar penal pe conducere sub influența alcoolului sau a altor substanțe.
 
+Pe scurt, din comunicatul IPJ Mehedinți rezultă o secvență fixă: coliziune pe strada Republicii, Vânju Mare, la 20.50; două autoturisme pe aceeași direcție; șofer 69 de ani din Vânju Mare și șofer 26 de ani din Gruia; fără victime; etilotest 0,91 mg/l pentru primul; negativ pentru al doilea; mostre biologice la spital; dosar penal.
+
+Poliția orașului Vânju Mare a fost la fața locului. Din cercetările anunțate a rezultat dinamica pe aceeași direcție de mers. Nu apar în anunț alte vehicule sau pietoni implicați.
+
+Valoarea de 0,91 mg/l este măsurată în aerul expirat. Recoltarea de mostre biologice este etapa următoare, anunțată explicit. Până la rezultatele de laborator, datele publice despre alcool pentru șoferul de 69 de ani rămân cele de la etilotest.
+
+Tânărul din Gruia, cu rezultat negativ, este menționat pentru a completa tabloul testărilor. Dosarul penal vizează conducerea sub influența alcoolului sau a altor substanțe, pe încadrarea din știrea oficială.
+
+Pagubele materiale sunt confirmate; victimele sunt excluse. Nu există în sursă estimări de daune sau informații despre asigurări. Articolul nu inventează astfel de detalii.
+
+Știrea a fost publicată pe 18 septembrie 2026, a doua zi după accident. Cititorii din Vânju Mare și din județ primesc astfel datele esențiale: loc, oră, vârste, localități, etilotest, spital, dosar.
+
+Prezumția de nevinovăție rămâne valabilă. Cercetarea continuă pe baza dosarului anunțat de IPJ Mehedinți.
+
 ## Surse
 
 - https://mh.politiaromana.ro/ro/stiri-si-media/stiri/stire-de-presa-18-09-20261789725502

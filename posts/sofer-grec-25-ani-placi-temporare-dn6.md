@@ -42,6 +42,18 @@ Orice extindere despre proveniența plăcilor sau despre alte state ar fi specul
 
 Recapitulare: 17 septembrie, 11.16; DN 6, în afara Gura Văii; Serviciul Rutier; cetățean grec, 25 de ani; plăcuțe temporare pe fond galben; fără drept de circulație în România, potrivit IPJ Mehedinți; dosar penal pe neînmatriculare.
 
+Din știrea IPJ Mehedinți se reține o constatare rutieră, nu un accident. La 11.16, pe DN 6, în afara Gura Văii, un cetățean grec de 25 de ani conducea un autoturism cu plăcuțe temporare pe fond galben. Poliția spune că acele plăcuțe nu conferă dreptul de circulație în România.
+
+Dosarul penal este pentru punerea în circulație sau conducerea unui vehicul neînmatriculat. Este încadrarea publicată pe 18 septembrie, referitoare la faptele din 17 septembrie. Tânărul beneficiază de prezumția de nevinovăție.
+
+Serviciul Rutier este structura menționată. Comunicatul nu vorbește despre alte infracțiuni, despre alcool sau despre viteză. Tema rămâne dreptul de circulație legat de tipul plăcuțelor și de starea de înmatriculare.
+
+Gura Văii, pe DN 6, este punctul geografic al depistării — în afara localității. Nu există km marker în anunț. Nu există direcție de mers publicată.
+
+Pentru cititorii din Mehedinți, cazul arată că plăcile temporare pe fond galben pot fi verificate și pot duce, în condițiile anunțate de poliție, la dosar pe neînmatriculare. Fără alte detalii oficiale, nu se pot adăuga concluzii despre proveniența vehiculului.
+
+Recapitulare: dată 17.09.2026; oră 11.16; DN 6, în afara Gura Văii; Serviciul Rutier; șofer grec 25 ani; plăcuțe temporare fond galben; fără drept de circulație în România, potrivit IPJ Mehedinți; dosar penal pe punerea în circulație sau conducerea unui vehicul neînmatriculat.
+
 ## Surse
 
 - https://mh.politiaromana.ro/ro/stiri-si-media/stiri/stire-de-presa-18-09-2026

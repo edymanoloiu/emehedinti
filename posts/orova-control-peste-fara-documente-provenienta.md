@@ -42,6 +42,18 @@ Femeia de 52 de ani din județul Sibiu este singura persoană menționată ca fi
 
 Orice concluzie despre braconaj, rețele sau locul exact de unde ar fi provenit peștele ar depăși textul poliției. Cercetările continuă, potrivit formulării privind confiscarea „în vederea continuării cercetărilor”.
 
+Oprirea pe DN 57, în Dubova, la 18.25, a fost urmată de verificări în urma cărora polițiștii orșoveni au legat lipsa documentelor de proveniență de cantitatea de peste 200 de kilograme. Speciile sunt descrise doar ca „diferite”, fără inventar public.
+
+Confiscarea integrală este anunțată explicit. Scopul menționat este continuarea cercetărilor. Dosarul penal vizează comercializarea fără documente de proveniență a peștelui și a altor viețuitoare acvatice obținute din pescuit — formulare care acoperă peștele din acest caz.
+
+Șoferița de 52 de ani, din județul Sibiu, rămâne în atenția cercetărilor cu prezumția de nevinovăție. IPJ Mehedinți nu anunță, în această știre, alte persoane cercetate și nu oferă date despre valoarea peștelui.
+
+Publicarea pe 18 septembrie, a doua zi după control, fixează cronologia: eveniment pe 17 septembrie seara, anunț public pe 18 septembrie. Nu apar actualizări ulterioare în textul de bază folosit aici.
+
+Pentru locuitorii din zona Orșova–Dubova, anunțul confirmă o intervenție locală pe DN 57, cu miză pe documentele de proveniență. Fără acte, cantitatea a fost confiscată și s-a deschis dosar pe încadrarea anunțată de poliție.
+
+Elementele care pot fi reținute fără interpretare: dată 17.09.2026; oră 18.25; DN 57, Dubova; Poliția municipiului Orșova; femeie 52 ani, județul Sibiu; peste 200 kg pește, specii diferite; fără documente de proveniență; confiscare totală; dosar penal pe comercializare fără documente de proveniență.
+
 ## Surse
 
 - https://mh.politiaromana.ro/ro/stiri-si-media/stiri/stire-de-presa-18-09-20261789725603

@@ -44,6 +44,16 @@ Nu există în sursă detalii despre materiale distribuite, orar sau feedback di
 
 În Mehedinți, astfel de acțiuni preventive în școli apar periodic. Comunicatul de azi fixează clar că, pe 18 septembrie, tema a fost dublă — oameni și animale — și că mesajul central rămâne respectul și cererea de ajutor la timp.
 
+În practică, pentru elevii din Drobeta-Turnu Severin, cele două campanii înseamnă același fir: observă, respectă, cere ajutor. Campania despre nevoile care nu se văd se leagă de bullying; campania despre animale se leagă de responsabilitate față de ființe care depind de oameni.
+
+IPJ Mehedinți plasează aceste activități în categoria informativ-preventivă, nu în categoria anchetelor. Nu există, în comunicatul din 18 septembrie, referiri la plângeri, sancțiuni școlare sau cazuri nominalizate. Rămâne pe masă doar mesajul educativ, livrat în două unități de învățământ din municipiu.
+
+Părinții pot folosi denumirile campaniilor ca punct de plecare pentru discuții acasă: „Chiar daca nu plange, nu inseamna ca n-are nevoie de tine!” și „Fii responsabil, protejează animalele!”. Poliția le prezintă împreună cu scopul declarat — comportament responsabil, sigur și bazat pe respect.
+
+Prezența Biroului Siguranță Școlară arată că tema bullyingului și a empatiei este tratată ca parte a siguranței în mediul educațional. Prezența Biroului pentru Protecția Animalelor arată că protecția animalelor a fost inclusă explicit în aceeași zi de activități, nu ca notă secundară.
+
+Data de 18 septembrie 2026 este ziua activităților, confirmată de comunicatul IPJ Mehedinți. Locul este municipiul Drobeta-Turnu Severin. Numărul unităților de învățământ este două. Aceste trei elemente — zi, municipiu, două școli — sunt scheletul factual al anunțului.
+
 ## Surse
 
 - https://mh.politiaromana.ro/ro/stiri-si-media/stiri/comunicat-de-presa-18-09-2026

@@ -110,9 +110,7 @@ export async function getServerSideProps({ res }) {
 	const allPosts = posts;
 
 	const sitemaps = await fetchPartnerSitemaps();
-const cmItems = await fetchCautiMasinaItems(new Parser({ timeout: 8000 }), 6);
-
-	const partnerFeedLimit = BINE_DE_STIUT_HOME_LIMIT;
+const partnerFeedLimit = BINE_DE_STIUT_HOME_LIMIT;
 	const takeLatestRss = (result) =>
 		sortRssItemsByDateDesc(result?.value?.items || []).slice(0, partnerFeedLimit);
 

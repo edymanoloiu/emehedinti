@@ -109,32 +109,14 @@ export async function getServerSideProps({ res }) {
 
 	const allPosts = posts;
 
-	const weboSitemaps = await Promise.allSettled([
-		new Parser({ timeout: 2000 }).parseURL('https://obliqdesign.ro/rss.xml'),
-		new Parser({ timeout: 2000 }).parseURL('https://meritasamergi.ro/rss.xml'),
-		new Parser({ timeout: 2000 }).parseURL('https://ghidullegal.ro/rss.xml'),
-		new Parser({ timeout: 2000 }).parseURL('https://sfaturidesanatate.ro/rss.xml'),
-		new Parser({ timeout: 2000 }).parseURL('https://ghidulgospodarului.ro/rss.xml'),
-		new Parser({ timeout: 2000 }).parseURL('https://azicemancam.ro/rss.xml'),
-		new Parser({ timeout: 2000 }).parseURL('https://painesicirc.ro/rss.xml'),
-	]);
-
-	const cmItems = await fetchCautiMasinaItems(new Parser({ timeout: 8000 }), 6);
+	const sitemaps = await fetchPartnerSitemaps();
+const cmItems = await fetchCautiMasinaItems(new Parser({ timeout: 8000 }), 6);
 
 	const partnerFeedLimit = BINE_DE_STIUT_HOME_LIMIT;
 	const takeLatestRss = (result) =>
 		sortRssItemsByDateDesc(result?.value?.items || []).slice(0, partnerFeedLimit);
 
-	const sitemaps = {
-		obliq: takeLatestRss(weboSitemaps[0]),
-		mm: takeLatestRss(weboSitemaps[1]),
-		legal: takeLatestRss(weboSitemaps[2]),
-		sanatate: takeLatestRss(weboSitemaps[3]),
-		gospodar: takeLatestRss(weboSitemaps[4]),
-		azi: takeLatestRss(weboSitemaps[5]),
-		cm: cmItems,
-		pc: sortRssItemsByDateDesc(weboSitemaps[6]?.value?.items || []).slice(0, 10),
-	};
+	// sitemaps from fetchPartnerSitemaps()
 
 	return {
 		props: {

@@ -29,9 +29,9 @@ tags:
 
 Pe contactul spitjudseverin.ro, accesul vizitatorilor e zilnic 14:00–16:00. Un vizitator pe pacient. 15 minute, în afara ATI. E-mail: oficial@spitjudseverin.ro.
 
-## Nu există fereastră de dimineață
+## Nu există program de dimineață
 
-Sâmbăta și duminica rămân aceleași două ore. Un drum la 13:50 e înainte de deschidere.
+Sâmbăta și duminica rămân aceleași două ore. Cine ajunge la 13:50 e înainte de deschidere.
 
 Secretariat: 0352 401 303. Fișier programări: 0352 881 073 — pentru consultații, nu pentru salon.
 

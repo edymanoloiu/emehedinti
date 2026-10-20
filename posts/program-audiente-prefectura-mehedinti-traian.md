@@ -37,7 +37,7 @@ Pentru lucrările PNRR la Palatul Administrativ, instituția cere e-mail sau fax
 
 ## Vineri, două cifre pe site
 
-Contact: luni–joi 08:00–16:30, vineri 08:00–14:00. Pagina de program: luni–vineri 08:00–16:00. Un drum vineri după 14:00 merită un telefon la registratură.
+Contact: luni–joi 08:00–16:30, vineri 08:00–14:00. Pagina de program: luni–vineri 08:00–16:00. Cine ajunge vineri după 14:00 merită un telefon la registratură.
 
 ## Întrebări frecvente
 

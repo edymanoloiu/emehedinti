@@ -2,14 +2,14 @@
 postFormat: 'standard'
 story: true
 title: "Evenimente Culturale Relevante în Drobeta Turnu-Severin - 20 Octombrie 2026"
-excerpt: "Pe 20 octombrie 2026, Drobeta Turnu-Severin a fost gazda unor evenimente culturale semnificative, inclusiv expoziții de artă și premiere teatrale, ce reflectă diversitatea artistică a orașului."
+excerpt: "Pe 20 octombrie 2026, Drobeta Turnu-Severin va găzdui o serie de evenimente culturale diverse, incluzând expoziții de artă și spectacole la Palatul Culturii, dar și anunțuri despre un nou festival dedicat artei și științei."
 featureImg: https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg
 date: Oct 20 2026
 cate: 'Evenimente si cultura'
 cate_bg: 'bg-color-red-one'
 cate_img: '/images/category/world.png'
-post_views: '10K Vizualizari'
-post_share: '38 Shares'
+post_views: '7K Vizualizari'
+post_share: '57 Shares'
 author_name: 'Elena Mărginean'
 author_desg: 'Publisher'
 author_img: '/images/author/elena.png'
@@ -18,16 +18,18 @@ tags:
 - Evenimente si cultura
 ---
 
-### Expoziții de Artă
-Muzeul Regiunii Porților de Fier a deschis recent expoziția de fotografie „Cum respiră pământul”, realizată de artistul Dan Mihalcea. Aceasta este deschisă pe întreaga durată a lunii octombrie și include 20 de lucrări surprinse în zona Vulcanilor Noroioși. Vernisajul a avut loc pe 3 octombrie, invitând vizitatorii să mediteze asupra interconexiunii dintre om și natură. Această expoziție face parte dintr-un proiect mai amplu, ajuns la al 45-lea vernisaj, care a debutat în aprilie 2023 și se mută lunar în diferite orașe din România și din străinătate.
+### Expoziții de Artă în Drobeta Turnu-Severin
 
-La Palatul Culturii „Teodor Costescu”, sala Gheorghe Anghel găzduiește expoziția „Confluent” semnată de Nicolae Ștefan, care a fost deschisă pe 8 octombrie 2026.
+Muzeul Regiunii Porților de Fier își deschide ușile pentru vizitatori în luna octombrie cu expoziția itinerantă de fotografii intitulată 'Cum respiră pământul', realizată de artistul Dan Mihalcea. Aceasta a fost vernisată pe 3 octombrie și include 20 de lucrări care surprind frumusețea Vulcanilor Noroioși, având scopul de a provoca o reflecție asupra interconexiunii între om și natură. În același timp, la Palatul Culturii 'Teodor Costescu', este expusă lucrarea 'Confluent' a artistului Nicolae Ștefan, deschisă publicului din 8 octombrie 2026.
 
 ### Programul Stagiunii de Toamnă la Palatul Culturii
-Palatul Culturii „Teodor Costescu” a dezvăluit un program atractiv pentru stagiunea de toamnă, cu o varietate de evenimente artistice. Printre ele se remarcă spectacolul „Simfonii de toamnă”, dedicat romanțelor, programat pentru 21 octombrie. De asemenea, pe 22 octombrie, va avea loc premiera piesei de teatru „6 Inimi 3 Greșeli”, o comedie ce abordează teme de prietenie. Un alt punct de atracție va fi spectacolul „Dragoste în 2 acte”, cu Maia Morgenstern și Marius Bodochi, programat pe 23 octombrie.
 
-### Succesul Tinerilor Artiști
-Mihai Gabriel Ciobanu, un tânăr talentat din Drobeta Turnu-Severin, a fost distins cu Premiul III la secțiunea de Interpretare vocală în cadrul Festivalului-Concurs Național de Interpretare a Cântecului Popular Românesc „Dan Moisescu”, competiție desfășurată la Constanța. Această competiție a adunat tineri din diverse colțuri ale țării, evidențiind bogăția culturală a folclorului românesc.
+Palatul Culturii 'Teodor Costescu' din Drobeta Turnu-Severin promite o stagiune de toamnă vibrantă, cu o gamă variată de evenimente cultural-artistice. Spectacolul 'Simfonii de toamnă', dedicat romanțelor și melodiilor de succes, este programat pentru 21 octombrie, începând cu ora 19:00. A doua zi, pe 22 octombrie, va avea loc premiera comediei '6 Inimi 3 Greșeli', care va explora teme legate de prietenie, la ora 19:00. De asemenea, pe 23 octombrie, Maia Morgenstern și Marius Bodochi vor urca pe scenă în cadrul spectacolului 'Dragoste în 2 acte', tot la ora 19:00.
 
-### Sinteză
-În concluzie, 20 octombrie 2026 a fost o zi mai liniștită în Drobeta Turnu-Severin, dar a subliniat totodată vitalitatea culturală a orașului prin expozițiile actuale și evenimentele programate la Palatul Culturii „Teodor Costescu”, un centru important al activităților artistice din zonă.
+### Festivalul de Artă și Știință 'NEW LANDSCAPE'
+
+O noutate importantă pe agenda culturală a orașului este lansarea festivalului 'NEW LANDSCAPE', dedicat artei și științei. Deși detaliile specifice ale programului și locațiilor sunt încă în așteptare, organizatorii promit o abordare inovatoare și captivantă, care va zări un nou orizont în oferta culturală locală.
+
+### Concluzie
+
+În ciuda unei zile mai liniștite pe 20 octombrie 2026, Drobeta Turnu-Severin continuă să demonstreze un dinamism cultural remarcabil prin expozițiile actuale și anunțurile de evenimente viitoare. Palatul Culturii 'Teodor Costescu' rămâne un hub important pentru activitățile artistice, pregătind o serie de spectacole variate pentru publicul din Severin. Astfel, orașul se pregătește să primească iubitorii de cultură cu brațele deschise.

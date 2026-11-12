@@ -18,7 +18,7 @@ author_bio: 'Elena Mărginean este jurnalista care dă voce comunității din Dr
 tags:
 - Actualitate
 - Știri locale
-
+---
 
 ![Mehedinți: 39 de situații de urgență gestionate de pompierii mehedințeni în weekend](/images/posts/mehedinti-39-interventii-pompieri-emehedinti-12-noiembrie-2026.webp)
 

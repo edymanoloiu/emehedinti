@@ -1,240 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Azi în Drobeta | Cele mai importante știri din Drobeta-Turnu Severin. Află tot ce contează, azi, în Drobeta-Turnu Severin.]]></title>
-        <description><![CDATA[„Azi în Drobeta” este platforma digitală dedicată locuitorilor din Drobeta-Turnu Severin și celor interesați de viața orașului de pe malul Dunării. Aici găsești zilnic știri locale, evenimente importante, informații utile, interviuri și povești despre oameni și locuri care dau identitate comunității. Cu un conținut echilibrat, accesibil și actualizat constant, „Azi în Drobeta” devine ghidul tău zilnic pentru tot ce contează în Severin – de la administrație și cultură până la stil de viață și inițiative locale.]]></description>
+        <title><![CDATA[eMehedinți - Știrile județului Mehedinți]]></title>
+        <description><![CDATA[Știri din Mehedinți, Drobeta-Turnu Severin, Orșova și întreg județul. Actualitate, Dunărea, turism, administrație, trafic, evenimente și comunitate.]]></description>
         <link>https://emehedinti.ro</link>
         <image>
             <url>https://emehedinti.ro/images/cropped_image.png</url>
-            <title>Azi în Drobeta | Cele mai importante știri din Drobeta-Turnu Severin. Află tot ce contează, azi, în Drobeta-Turnu Severin.</title>
+            <title>eMehedinți - Știrile județului Mehedinți</title>
             <link>https://emehedinti.ro</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 18:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 11:47:55 GMT</lastBuildDate>
         <atom:link href="https://emehedinti.ro/rss.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[ro]]></language>
-<item>
-            <title><![CDATA[Peste 244 de hectare de vegetație, arse într-un weekend în Mehedinți]]></title>
-            <description><![CDATA[Sâmbătă: 16 incendii de vegetație, multe în cimitire. Weekend: peste 44 ha litieră, plus o anexă, baloți de paie, un gard de lemn și gunoi menajer. 33 de incendii, 4 accidente, 46 de persoane asistate medical.]]></description>
-            <link>https://emehedinti.ro/post/mehedinti-244-hectare-vegetatie-weekend/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/mehedinti-244-hectare-vegetatie-weekend/</guid>
-            <category><![CDATA[Azi in Drobeta Turnu-Severin]]></category>
-            <category><![CDATA[vegetație]]></category>
-            <category><![CDATA[ISU Mehedinți]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/mehedinti-244-hectare-vegetatie-weekend.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[ISU Mehedinți, la datorie de Sfânta Maria și de Zilele Orșovei]]></title>
-            <description><![CDATA[Pompierii anunță controale de prevenire la operatori economici și prezență la evenimentele din weekend, inclusiv Ziua Marinei și Zilele Municipiului Orșova.]]></description>
-            <link>https://emehedinti.ro/post/isu-mehedinti-masuri-weekend-sfanta-maria-orsova/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/isu-mehedinti-masuri-weekend-sfanta-maria-orsova/</guid>
-            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
-            <category><![CDATA[ISU Mehedinți]]></category>
-            <category><![CDATA[Sfânta Maria]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Thu, 13 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/isu-mehedinti-masuri-weekend-sfanta-maria-orsova.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Corectură editorială: retragem materialul despre finala de tenis de la Montreal]]></title>
-            <description><![CDATA[Materialul a fost retras deoarece subiectul sportiv extern nu avea un impact concret pentru Drobeta-Turnu Severin sau Mehedinți.]]></description>
-            <link>https://emehedinti.ro/post/2026-08-13-t02-brandon-nakashima-emehedinti/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/2026-08-13-t02-brandon-nakashima-emehedinti/</guid>
-            <category><![CDATA[Știri]]></category>
-            <category><![CDATA[Corectură editorială]]></category>
-            <dc:creator><![CDATA[Redacția]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/2026-08-13-t02-brandon-nakashima-emehedinti.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Accident pe Bd. Tudor Vladimirescu / Orly din Drobeta: un rănit]]></title>
-            <description><![CDATA[Pe 13 august 2026, la 11:19, un șofer de 23 de ani din Dolj nu ar fi păstrat distanța și a lovit din spate un bărbat de 48 de ani din Izvoru Bârzii, dus la spital.]]></description>
-            <link>https://emehedinti.ro/post/accident-bd-tudor-vladimirescu-orly-drobeta/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/accident-bd-tudor-vladimirescu-orly-drobeta/</guid>
-            <category><![CDATA[Azi in Drobeta Turnu-Severin]]></category>
-            <category><![CDATA[Drobeta]]></category>
-            <category><![CDATA[accident]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/accident-bd-tudor-vladimirescu-orly-drobeta.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[La Cujmir, șofer fără permis, cu alcool, după răsturnare și părăsirea locului]]></title>
-            <description><![CDATA[Pe 12 august 2026, ~02:00, pe DN 56A la Cujmir, un tânăr de 21 de ani a ignorat semnalul de oprire, s-a răsturnat, a părăsit locul și a fost depistat cu 0,44 mg/l alcool.]]></description>
-            <link>https://emehedinti.ro/post/cujmir-sofer-fara-permis-alcool-rasturnare-parasire/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/cujmir-sofer-fara-permis-alcool-rasturnare-parasire/</guid>
-            <category><![CDATA[Azi in Drobeta Turnu-Severin]]></category>
-            <category><![CDATA[Cujmir]]></category>
-            <category><![CDATA[trafic]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/cujmir-sofer-fara-permis-alcool-rasturnare-parasire.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[La Eșelnița, geamuri distruse la două mașini din parcarea unei pensiuni]]></title>
-            <description><![CDATA[În noaptea de 8 spre 9 august 2026, o femeie de 35 de ani a sesizat distrugerea geamurilor a două autoturisme din parcarea unei pensiuni din Eșelnița. Dosar pentru distrugere.]]></description>
-            <link>https://emehedinti.ro/post/eselnita-geamuri-distruse-masini-pensiune/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/eselnita-geamuri-distruse-masini-pensiune/</guid>
-            <category><![CDATA[Azi in Drobeta Turnu-Severin]]></category>
-            <category><![CDATA[Eșelnița]]></category>
-            <category><![CDATA[distrugere]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/eselnita-geamuri-distruse-masini-pensiune.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[La Lunca Banului, biciclist de 19 ani depistat cu 1,22 mg/l alcool]]></title>
-            <description><![CDATA[Pe 11 august 2026, la 23:02, un tânăr din Strehaia a căzut de pe bicicletă pe DN 6, a refuzat spitalul și a fost amendat cu 1.730 de lei.]]></description>
-            <link>https://emehedinti.ro/post/lunca-banului-biciclist-alcool-amenda/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/lunca-banului-biciclist-alcool-amenda/</guid>
-            <category><![CDATA[Azi in Drobeta Turnu-Severin]]></category>
-            <category><![CDATA[Lunca Banului]]></category>
-            <category><![CDATA[alcool]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/lunca-banului-biciclist-alcool-amenda.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Prevenire la centrele de bacalaureat din Drobeta: violență, droguri și bullying]]></title>
-            <description><![CDATA[Pe 12 august 2026, polițiștii de Siguranță Școlară au fost la CN Gheorghe Țițeica și CN Economic Theodor Costescu, centre de examen în sesiunea august 2026.]]></description>
-            <link>https://emehedinti.ro/post/prevenire-bacalaureat-drobeta-siguranta-scolara/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/prevenire-bacalaureat-drobeta-siguranta-scolara/</guid>
-            <category><![CDATA[Azi in Drobeta Turnu-Severin]]></category>
-            <category><![CDATA[Drobeta]]></category>
-            <category><![CDATA[educație]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/prevenire-bacalaureat-drobeta-siguranta-scolara.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Sesizare falsă de înec în Dunăre, la Drobeta: amendă de 500 de lei]]></title>
-            <description><![CDATA[Pe 11 august 2026, un bărbat de 33 de ani din Strehaia a cerut unui prieten să spună părinților că a sărit în Dunăre. A fost găsit acasă, la băutură; amendă 500 lei.]]></description>
-            <link>https://emehedinti.ro/post/sesizare-falsa-inec-dunare-drobeta-amenda/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/sesizare-falsa-inec-dunare-drobeta-amenda/</guid>
-            <category><![CDATA[Azi in Drobeta Turnu-Severin]]></category>
-            <category><![CDATA[Drobeta]]></category>
-            <category><![CDATA[112]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://emehedinti.ro/images/posts/sesizare-falsa-inec-dunare-drobeta-amenda.webp" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Calendar ortodox: Tăierea capului Sfântului Ioan Botezătorul]]></title>
-            <description><![CDATA[Pe 9 august 2026, calendarul ortodox marchează Tăierea capului Sfântului Ioan Botezătorul. Credincioșii din Drobeta-Turnu Severin țin post cu dezlegare la pește, iar cei care poartă numele Ioan, Ioana sau Ion își celebrează onomastica.]]></description>
-            <link>https://emehedinti.ro/post/calendar-ortodox-taierea-capului-sfantului-ioan-botezatorul/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/calendar-ortodox-taierea-capului-sfantului-ioan-botezatorul/</guid>
-            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
-            <category><![CDATA[Calendar ortodox]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://pixabay.com/get/gcbbc2077942ff088fb2238e62add8f15340e8abf72f60579ea75fe0917f2493d918b3ac1a369f2bc02edda2e5c1124031bcdf0383b003aa72cf5944cb695ef90_1280.jpg" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Corectură editorială: retragem rezumatul local despre Drobeta Turnu-Severin din 8 august 2026]]></title>
-            <description><![CDATA[Retragem afirmațiile neverificate publicate inițial în acest rezumat și explicăm motivele corecturii.]]></description>
-            <link>https://emehedinti.ro/post/ce-s-a-intamplat-ieri-8-august-2026-in-drobeta-turnu-severin/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/ce-s-a-intamplat-ieri-8-august-2026-in-drobeta-turnu-severin/</guid>
-            <category><![CDATA[Știri locale]]></category>
-            <category><![CDATA[Corectură editorială]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
-        </item>
-<item>
-            <title><![CDATA[Cele mai importante evenimente culturale din Drobeta Turnu-Severin - 9 august 2026]]></title>
-            <description><![CDATA[Cele mai importante evenimente culturale din Drobeta Turnu-Severin de pe 9 august 2026: toate într-un singur rezumat concis.]]></description>
-            <link>https://emehedinti.ro/post/cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-9-august-2026/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-9-august-2026/</guid>
+        <item>
+            <title><![CDATA[Evenimentele culturale remarcabile din Drobeta Turnu-Severin pe 22 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 22 noiembrie 2026, Drobeta Turnu-Severin se pregătește să-și întâmpine vizitatorii cu o serie de evenimente culturale relevante, incluzând expoziții de artă și proiecții de film. Iată un rezumat al activităților culturale cele mai importante din oraș.]]></description>
+            <link>https://emehedinti.ro/post/evenimentele-culturale-remarcabile-din-drobeta-turnu-severin-pe-22-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/evenimentele-culturale-remarcabile-din-drobeta-turnu-severin-pe-22-noiembrie-2026</guid>
             <category><![CDATA[Evenimente si cultura]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
         </item>
-<item>
-            <title><![CDATA[Curs valutar BNR în Drobeta-Turnu Severin – 2026-08-09]]></title>
-            <description><![CDATA[Banca Națională a României publică zilnic cursul valutar oficial, care influențează costurile ratelor la creditele în valută și prețurile produselor importate. Valutele urmărite de localnici includ euro, dolarul american, lira sterlină și francul elvețian.]]></description>
-            <link>https://emehedinti.ro/post/curs-valutar-bnr-in-drobeta-turnu-severin-2026-08-09/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/curs-valutar-bnr-in-drobeta-turnu-severin-2026-08-09/</guid>
-            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
-            <category><![CDATA[Curs valutar (BNR)]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://images.unsplash.com/photo-1734942718935-4f08020d70c0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5NjQxNDl8MHwxfHNlYXJjaHwxfHxjdXJyZW5jeSUyMGV4Y2hhbmdlJTIwcmF0ZXMlMjBiYW5rbm90ZXMlMjBjb2lucyUyMGZpbmFuY2lhbCUyMG1hcmtldCUyMFJvbWFuaWF8ZW58MHwwfHx8MTc4NjI0ODQxN3ww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Horoscop zilnic azi – dragoste, bani și sănătate pentru fiecare zodie – 09 august 2026]]></title>
-            <description><![CDATA[Horoscop zilnic – 09 august 2026 Berbec General: Astăzi simți un impuls de inițiativă care te ajută să începi sarcini scurte și concrete. Prioritizează două obiective clare și folosește intervale de 25–40 de minute pentru a păstra ritmul. Evită asumarea mai multor proiecte care cer coordonare extinsă. Dragoste: Comunicarea directă funcționează mai bine decât așteptările.]]></description>
-            <link>https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-09-august-2026/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-09-august-2026/</guid>
+        <item>
+            <title><![CDATA[Horoscop zilnic azi – dragoste, bani și sănătate pentru fiecare zodie – 22 noiembrie 2026]]></title>
+            <description><![CDATA[Horoscop zilnic – 22 noiembrie 2026 Berbec General: Interpretare astrologică: energia zilei cere claritate în decizii și priorități; este un moment potrivit pentru a revizui proiecte începute. Evitați concluziile pripite și verificați faptele înainte de a le comunica. Dacă apare un obstacol, tratați-l ca o informație utilă, nu ca o critică personală. Dragoste: Comunicarea directă]]></description>
+            <link>https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-22-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-22-noiembrie-2026</guid>
             <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
             <category><![CDATA[Horoscop]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="https://images.unsplash.com/photo-1614089254151-676cc373b01e" length="0" type="image/jpeg"/>
         </item>
-<item>
-            <title><![CDATA[Sfatul zilei: organizare eficientă pentru școală în Drobeta-Turnu Severin]]></title>
-            <description><![CDATA[Pe 9 august 2026, locuitorii din Drobeta-Turnu Severin primesc sfaturi utile pentru o organizare eficientă a pregătirilor de școală. Recomandările vizează stabilirea unei liste de rechizite, gestionarea bugetului și implicarea copiilor în procesul de pregătire.]]></description>
-            <link>https://emehedinti.ro/post/sfatul-zilei-organizare-eficienta-pentru-scoala-in-drobeta-turnu-severin/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/sfatul-zilei-organizare-eficienta-pentru-scoala-in-drobeta-turnu-severin/</guid>
+        <item>
+            <title><![CDATA[Horoscopul zilei: ce îți rezervă astrele azi, în funcție de zodie – 22 noiembrie 2026]]></title>
+            <description><![CDATA[Horoscop zilnic – 22 noiembrie 2026 Berbec General: Din perspectiva astrologică, ziua favorizează inițiativele practice: clarificarea pașilor pe termen scurt aduce rezultate mai rapide decât planurile ambițioase. Evitați deciziile impulsive la prânz; analiza simplă și consultarea unui coleg pot reduce erorile. Dragoste: Comunicarea directă funcționează azi, dar fără ton acuzator. Dacă sunteți într-un cuplu, propuneți]]></description>
+            <link>https://emehedinti.ro/post/horoscopul-zilei-ce-iti-rezerva-astrele-azi-in-functie-de-zodie-22-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/horoscopul-zilei-ce-iti-rezerva-astrele-azi-in-functie-de-zodie-22-noiembrie-2026</guid>
             <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
-            <category><![CDATA[Sfatul zilei]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://pixabay.com/get/gf39843f947ab649625d83a99f3488c35a8d648cbadb752d4df853345479d40eb8fd7f2d3124f709f69865afe208d1a3267d5c1d412714fc0c2fd9a434c577945_1280.jpg" length="0" type="image/jpeg"/>
+            <category><![CDATA[Horoscop]]></category>
+            <pubDate>Sat, 21 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.unsplash.com/photo-1614089254151-676cc373b01e" length="0" type="image/jpeg"/>
         </item>
-<item>
-            <title><![CDATA[Vremea în Drobeta-Turnu Severin pe 9 august 2026]]></title>
-            <description><![CDATA[Pe 9 august 2026, vremea în Drobeta-Turnu Severin va fi caracterizată de cer variabil, cu temperaturi moderate și vânt slab. Condițiile meteorologice nu vor afecta activitățile în aer liber sau circulația.]]></description>
-            <link>https://emehedinti.ro/post/vremea-in-drobeta-turnu-severin-pe-9-august-2026/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/vremea-in-drobeta-turnu-severin-pe-9-august-2026/</guid>
-            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
-            <category><![CDATA[Vremea azi]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Sat, 08 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://pixabay.com/get/g9a4a48f5db957de2010fe92609b57afa0c3af02f13c817bdd2802608d01904d105b7af5e8a76961341c54df220cdb6457a40079626a703f6bde5c0b0300de7d6_1280.jpg" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Bancul zilei în Drobeta-Turnu Severin – 8 august 2026]]></title>
-            <description><![CDATA[Bancul zilei din Drobeta-Turnu Severin aduce umor local, cu o glumă despre roșiile din Grădiștea, și invită cititorii să împărtășească propriile întâmplări amuzante ce reflectă viața cotidiană din oraș.]]></description>
-            <link>https://emehedinti.ro/post/bancul-zilei-in-drobeta-turnu-severin-8-august-2026/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/bancul-zilei-in-drobeta-turnu-severin-8-august-2026/</guid>
-            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
-            <category><![CDATA[Bancul zilei]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://images.unsplash.com/photo-1501176091126-05e7259b3f37?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5NjQxNDl8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjBsYXVnaGluZyUyMG91dGRvb3IlMjBjaXR5JTIwc3RyZWV0JTIwUm9tYW5pYXxlbnwwfDB8fHwxNzg2MDc4OTA1fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Calendar ortodox Drobeta-Turnu Severin – 8 august 2026]]></title>
-            <description><![CDATA[Pe 8 august 2026, calendarul ortodox din România consemnează pomenirea unor sfinți. Credincioșii din Drobeta-Turnu Severin sunt invitați să participe la slujbe și rugăciuni, fără restricții alimentare speciale în această zi.]]></description>
-            <link>https://emehedinti.ro/post/calendar-ortodox-drobeta-turnu-severin-8-august-2026/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/calendar-ortodox-drobeta-turnu-severin-8-august-2026/</guid>
-            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
-            <category><![CDATA[Calendar ortodox]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 21:00:00 GMT</pubDate>
-            <enclosure url="https://pixabay.com/get/g60da22591c2b2acadf3ae01d97a51927aabddf31c2f1c13e000d7c91f57e1c11f2c4bac8ec597113816c742a16fdfbae6c7ba739397978d4880c25bc24895df3_1280.jpg" length="0" type="image/jpeg"/>
-        </item>
-<item>
-            <title><![CDATA[Corectură editorială: retragem rezumatul local despre Drobeta-Turnu Severin din 7 august 2026]]></title>
-            <description><![CDATA[Retragem afirmațiile neverificate publicate inițial în acest rezumat și explicăm motivele corecturii.]]></description>
-            <link>https://emehedinti.ro/post/ce-s-a-intamplat-ieri-7-august-2026-in-drobeta-turnu-severin/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/ce-s-a-intamplat-ieri-7-august-2026-in-drobeta-turnu-severin/</guid>
-            <category><![CDATA[Știri locale]]></category>
-            <category><![CDATA[Corectură editorială]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 21:00:00 GMT</pubDate>
-        </item>
-<item>
-            <title><![CDATA[Cele mai importante evenimente culturale din Drobeta Turnu-Severin - 8 august 2026]]></title>
-            <description><![CDATA[Cele mai importante evenimente culturale din Drobeta Turnu-Severin de pe 8 august 2026: toate într-un singur rezumat concis.]]></description>
-            <link>https://emehedinti.ro/post/cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-8-august-2026/</link>
-            <guid isPermaLink="false">https://emehedinti.ro/post/cele-mai-importante-evenimente-culturale-din-drobeta-turnu-severin-8-august-2026/</guid>
+        <item>
+            <title><![CDATA[Cultura în Drobeta Turnu-Severin: Evenimentele Marcante din 21 Noiembrie 2026]]></title>
+            <description><![CDATA[Pe 21 noiembrie 2026, Drobeta Turnu-Severin a fost scena unor evenimente culturale semnificative, de la expoziții de artă la proiecții de film, pregătind în același timp o serie de manifestări viitoare.]]></description>
+            <link>https://emehedinti.ro/post/cultura-in-drobeta-turnu-severin-evenimentele-marcante-din-21-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/cultura-in-drobeta-turnu-severin-evenimentele-marcante-din-21-noiembrie-2026</guid>
             <category><![CDATA[Evenimente si cultura]]></category>
-            <dc:creator><![CDATA[Elena Mărginean]]></dc:creator>
-            <pubDate>Fri, 07 Aug 2026 21:00:00 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2026 22:00:00 GMT</pubDate>
             <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
         </item>
-</channel>
+        <item>
+            <title><![CDATA[Evenimente Culturale Remarcabile în Drobeta Turnu-Severin - 21 Noiembrie 2026]]></title>
+            <description><![CDATA[Pe 21 noiembrie 2026, Drobeta Turnu-Severin va găzdui o serie de activități culturale diverse, incluzând expoziții la Muzeul Regiunii Porților de Fier și Palatul Culturii. De asemenea, se anunță evenimente captivante pentru perioada următoare.]]></description>
+            <link>https://emehedinti.ro/post/evenimente-culturale-remarcabile-in-drobeta-turnu-severin-21-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/evenimente-culturale-remarcabile-in-drobeta-turnu-severin-21-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Fri, 20 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evenimentele din județul Mehedinți pe 20 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 20 noiembrie 2026, județul Mehedinți a fost scena unor activități importante în domeniul administrației locale, infrastructurii și evenimentelor sociale. De la consultări pentru fonduri europene până la incidente de vandalism, toate aceste fapte conturează o zi plină de evenimente.]]></description>
+            <link>https://emehedinti.ro/post/evenimentele-din-judetul-mehedinti-pe-20-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/evenimentele-din-judetul-mehedinti-pe-20-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
+            <pubDate>Fri, 20 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/7/77/Turnul_de_ap%C4%83_din_Drobeta_Turnu_Severin.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horoscop zilnic azi – dragoste, bani și sănătate pentru fiecare zodie – 21 noiembrie 2026]]></title>
+            <description><![CDATA[Horoscop zilnic – 21 noiembrie 2026 Berbec General: Ziua aduce o clarificare în planul responsabilităților; este probabil să recunoști rapid ce mai poate fi delegat. Evită deciziile impulsive în proiecte noi și acordă atenție documentelor înainte de semnare. Comunicarea clară va reduce neînțelegerile cu colegii sau partenerii. Dragoste: În relații, sinceritatea aduce beneficii practice: un]]></description>
+            <link>https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-21-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-21-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
+            <category><![CDATA[Horoscop]]></category>
+            <pubDate>Fri, 20 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.unsplash.com/photo-1614089254151-676cc373b01e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pompierii mehedințeni au gestionat 1.914 intervenții în două luni și jumătate — datele oficiale]]></title>
+            <description><![CDATA[Pentru cititorii din Mehedinți: bilanțul ISU Mehedinți pentru 1 septembrie–15 noiembrie indică o medie de aproximativ 26 de intervenții pe zi.]]></description>
+            <link>https://emehedinti.ro/post/bilant-misiuni-emehedinti-r2-20-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/bilant-misiuni-emehedinti-r2-20-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/bilant-misiuni-emehedinti-r2-20-noiembrie-2026.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evenimente semnificative în județul Mehedinți - 19 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 19 noiembrie 2026, județul Mehedinți a fost martorul unor evenimente importante, inclusiv exerciții de urgență, un incendiu în Vânju Mare și o creștere a ratei șomajului. Detalii despre situația economică și meteorologică sunt incluse în acest rezumat.]]></description>
+            <link>https://emehedinti.ro/post/evenimente-semnificative-in-judetul-mehedinti-19-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/evenimente-semnificative-in-judetul-mehedinti-19-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
+            <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/7/77/Turnul_de_ap%C4%83_din_Drobeta_Turnu_Severin.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evenimentele culturale de marcă din Drobeta Turnu-Severin - 20 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 20 noiembrie 2026, Drobeta Turnu-Severin continuă să fie un centru cultural vibrant, cu expoziții la muzee și anunțuri de spectacole care atrag atenția comunității locale.]]></description>
+            <link>https://emehedinti.ro/post/evenimentele-culturale-de-marca-din-drobeta-turnu-severin-20-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/evenimentele-culturale-de-marca-din-drobeta-turnu-severin-20-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autoritățile din Mehedinți reamintesc măsurile esențiale pentru vremea de iarnă — datele oficiale]]></title>
+            <description><![CDATA[Actualizare pentru cititorii din Mehedinți: pregătirea instalațiilor, a mașinii și urmărirea avertizărilor reduc riscul în perioadele cu viscol și polei.]]></description>
+            <link>https://emehedinti.ro/post/masuri-iarna-mehedinti-emehedinti-r3-20-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/masuri-iarna-mehedinti-emehedinti-r3-20-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
+            <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/masuri-iarna-mehedinti-emehedinti-r3-20-noiembrie-2026.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cum se pregătesc locuința și mașina pentru iarnă în Mehedinți]]></title>
+            <description><![CDATA[Recomandările ISU Mehedinți vizează sursele de încălzire, conductele expuse, rezervele de urgență și echiparea mașinii.]]></description>
+            <link>https://emehedinti.ro/post/mehedinti-pregatire-iarna-emehedinti-20-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/mehedinti-pregatire-iarna-emehedinti-20-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/mehedinti-pregatire-iarna-emehedinti-20-noiembrie-2026.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evenimente Culturale de Neratat în Drobeta Turnu-Severin - 19 Noiembrie 2026]]></title>
+            <description><![CDATA[Pe 19 noiembrie 2026, Drobeta Turnu-Severin se pregătește pentru o serie de evenimente culturale captivante, inclusiv balet, teatru și expoziții de artă. Iată ce nu trebuie să ratezi în această zi plină de viață culturală.]]></description>
+            <link>https://emehedinti.ro/post/evenimente-culturale-de-neratat-in-drobeta-turnu-severin-19-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/evenimente-culturale-de-neratat-in-drobeta-turnu-severin-19-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Evenimentele culturale de neratat din Drobeta Turnu-Severin pe 19 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 19 noiembrie 2026, Drobeta Turnu-Severin va găzdui o serie de evenimente culturale captivante, de la expoziții de artă la spectacole de teatru. Iată ce nu trebuie să ratați.]]></description>
+            <link>https://emehedinti.ro/post/evenimentele-culturale-de-neratat-din-drobeta-turnu-severin-pe-19-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/evenimentele-culturale-de-neratat-din-drobeta-turnu-severin-pe-19-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horoscop zilnic azi – dragoste, bani și sănătate pentru fiecare zodie – 19 noiembrie 2026]]></title>
+            <description><![CDATA[Horoscop zilnic – 19 noiembrie 2026 Un sumar clar pentru 19 noiembrie 2026: observați prioritățile și nu luați decizii definitive sub presiune; recomandările de mai jos sunt orientative și bazate pe interpretări generale ale influențelor astrale, nu pe certitudini. Berbec General: Zi în care impulsivitatea poate genera oportunități și fricțiuni. E util să verificați informațiile]]></description>
+            <link>https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-19-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/horoscop-zilnic-azi-dragoste-bani-si-sanatate-pentru-fiecare-zodie-19-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
+            <category><![CDATA[Horoscop]]></category>
+            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.unsplash.com/photo-1614089254151-676cc373b01e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horoscopul zilei: ce îți rezervă astrele azi, în funcție de zodie – 19 noiembrie 2026]]></title>
+            <description><![CDATA[Horoscop zilnic – 19 noiembrie 2026 Berbec General: Conform principiilor astrologiei, 19 noiembrie aduce energie activă pentru a pune în practică planuri începute anterior. Este o zi în care deciziile rapide pot fi eficiente, dar trebuie calibrate cu atenție pentru a evita pași pripiți. Dragoste: Pe plan sentimental, comunicarea directă funcționează mai bine decât gesturile]]></description>
+            <link>https://emehedinti.ro/post/horoscopul-zilei-ce-iti-rezerva-astrele-azi-in-functie-de-zodie-19-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/horoscopul-zilei-ce-iti-rezerva-astrele-azi-in-functie-de-zodie-19-noiembrie-2026</guid>
+            <category><![CDATA[Azi in Drobeta‑Turnu Severin]]></category>
+            <category><![CDATA[Horoscop]]></category>
+            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.unsplash.com/photo-1614089254151-676cc373b01e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mehedinți: exercițiu interinstituțional organizat de ISU Mehedinți]]></title>
+            <description><![CDATA[ISU Mehedinți a organizat un exercițiu interinstituțional pornind de la scenariul unei epidemii de gripă, cu focare în școli, instituții și comunitate, presiune pe spitale și personal medical parțial...]]></description>
+            <link>https://emehedinti.ro/post/mehedinti-exercitiu-interinstitutional-emehedinti-19-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/mehedinti-exercitiu-interinstitutional-emehedinti-19-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/mehedinti-exercitiu-interinstitutional-emehedinti-19-noiembrie-2026.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mehedinți: bilanțul misiunilor de weekend ale pompierilor din Mehedinți]]></title>
+            <description><![CDATA[Echipajele de pompieri mehedințeni au gestionat 46 de situații de urgență în intervalul 13–15 noiembrie, inclusiv asistență medicală pentru 37 de persoane.]]></description>
+            <link>https://emehedinti.ro/post/mehedinti-weekend-siguranta-emehedinti-19-noiembrie-2026-b</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/mehedinti-weekend-siguranta-emehedinti-19-noiembrie-2026-b</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/mehedinti-weekend-siguranta-emehedinti-19-noiembrie-2026-b.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finanțarea bateriilor pentru prosumatori: plafoanele AFM nu sunt prețuri recomandate în Mehedinți]]></title>
+            <description><![CDATA[Programul are un buget de 400 de milioane de lei. Costurile pentru echipament, montaj și garanție ar trebui prezentate separat.]]></description>
+            <link>https://emehedinti.ro/post/afm-stocare-prosumatori-emehedinti-18-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/afm-stocare-prosumatori-emehedinti-18-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Tue, 17 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="/images/posts/afm-stocare-prosumatori-emehedinti-18-noiembrie-2026.webp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Agenda culturală a Drobetei Turnu-Severin pe 18 noiembrie 2026]]></title>
+            <description><![CDATA[Pe 18 noiembrie 2026, Drobeta Turnu-Severin a găzduit evenimente culturale variate, de la expoziții de artă la anunțuri de spectacole viitoare. Iată ce nu trebuie să ratezi.]]></description>
+            <link>https://emehedinti.ro/post/agenda-culturala-a-drobetei-turnu-severin-pe-18-noiembrie-2026</link>
+            <guid isPermaLink="true">https://emehedinti.ro/post/agenda-culturala-a-drobetei-turnu-severin-pe-18-noiembrie-2026</guid>
+            <category><![CDATA[Evenimente si cultura]]></category>
+            <pubDate>Tue, 17 Nov 2026 22:00:00 GMT</pubDate>
+            <enclosure url="https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
 </rss>

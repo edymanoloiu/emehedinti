@@ -1,11 +1,449 @@
 {
-  "generatedAt": "2026-11-24T10:32:28.433Z",
-  "obliq": [],
-  "mm": [],
-  "legal": [],
-  "sanatate": [],
-  "gospodar": [],
-  "azi": [],
+  "generatedAt": "2026-11-28T08:48:37.292Z",
+  "obliq": [
+    {
+      "title": "Freze pentru lemn cu tijă de 6 mm: profilul, prinderea și ordinea de lucru",
+      "link": "https://obliqdesign.ro/post/freze-lemn-6mm-tija-profil-compatibilitate",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Un set de freze nu este compatibil cu orice mașină de frezat. Verifică diametrul tijei, tipul profilului și reglajul înainte de prima trecere pe piesa finală.",
+      "guid": "https://obliqdesign.ro/post/freze-lemn-6mm-tija-profil-compatibilitate",
+      "creator": "Obliq",
+      "enclosure": {
+        "url": "https://www.scule365.ro/uploads/produse/31189/10139825.jpg"
+      }
+    },
+    {
+      "title": "Rigolă de duș walk-in: poziție, pantă și hidroizolație înainte de placare",
+      "link": "https://obliqdesign.ro/post/rigola-dus-walk-in-pozitie-panta-hidroizolatie",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "O rigolă liniară nu rezolvă singură evacuarea apei. Vezi unde se stabilește poziția ei, cum se corelează panta cu plăcile și ce trebuie verificat înainte de hidroizolare și montaj.",
+      "guid": "https://obliqdesign.ro/post/rigola-dus-walk-in-pozitie-panta-hidroizolatie",
+      "creator": "Obliq",
+      "enclosure": {
+        "url": "/images/posts/rigola-dus-walk-in.png"
+      }
+    },
+    {
+      "title": "Wiener Werkstätte în amenajări: geometrie, textile și obiecte fără decor tematic",
+      "link": "https://obliqdesign.ro/post/wiener-werkstatte-amenajari-geometrie-textile-obiecte",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Wiener Werkstätte nu înseamnă doar pătrate alb-negru sau obiecte de muzeu. Vezi ce definește mișcarea vieneză, cum alegi materiale și patternuri și cum păstrezi un interior actual.",
+      "guid": "https://obliqdesign.ro/post/wiener-werkstatte-amenajari-geometrie-textile-obiecte",
+      "creator": "Obliq",
+      "enclosure": {
+        "url": "/images/posts/wiener-werkstatte-amenajari-editorial.png"
+      }
+    },
+    {
+      "title": "Clapetă antiretur pentru ventilatorul de baie: când ajută și ce verifici la montaj",
+      "link": "https://obliqdesign.ro/post/clapeta-antiretur-ventilator-baie-alegere-montaj",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "O clapetă antiretur poate limita aerul rece și mirosurile care se întorc pe tubulatură, dar poate și reduce debitul dacă este aleasă sau montată greșit. Vezi ce verifici înainte de montaj.",
+      "guid": "https://obliqdesign.ro/post/clapeta-antiretur-ventilator-baie-alegere-montaj",
+      "creator": "Obliq",
+      "enclosure": {
+        "url": "/images/posts/clapeta-antiretur-ventilator-baie.png"
+      }
+    },
+    {
+      "title": "Electropalan de 250 kg: ce verifici la suspendare, cursa cablului și limită",
+      "link": "https://obliqdesign.ro/post/electropalan-250kg-montaj-suspensie-limite",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Un electropalan se alege după punctul de suspendare și sarcina reală, nu numai după capacitatea afișată. Verifică structura, cursa utilă și opritoarele înainte de ridicare.",
+      "guid": "https://obliqdesign.ro/post/electropalan-250kg-montaj-suspensie-limite",
+      "creator": "Obliq",
+      "enclosure": {
+        "url": "https://www.scule365.ro/uploads/produse/30980/6722018.jpg"
+      }
+    },
+    {
+      "title": "Modernisme Català în amenajări: lemn, ceramică și curbe fără decor de temă",
+      "link": "https://obliqdesign.ro/post/modernisme-catala-in-amenajari-lemn-ceramica-curbe",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Modernisme Català este mai mult decât o colecție de mozaicuri și curbe. Află cum preiei relația dintre material, lumină și mobilier într-o locuință actuală, fără a copia un interior istoric.",
+      "guid": "https://obliqdesign.ro/post/modernisme-catala-in-amenajari-lemn-ceramica-curbe",
+      "creator": "Obliq",
+      "enclosure": {
+        "url": "/images/posts/modernisme-catala-amenajari.png"
+      }
+    }
+  ],
+  "mm": [
+    {
+      "title": "Etichetă pentru bagaj: ce date lași la vedere și ce păstrezi în interior",
+      "link": "https://meritasamergi.ro/post/eticheta-bagaj-date-contact-calatorie",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "O etichetă de bagaj ajută la identificare, dar nu trebuie să devină o listă publică de date personale. Iată ce informații sunt utile, unde le pui și ce faci dacă valiza nu apare pe bandă.",
+      "guid": "https://meritasamergi.ro/post/eticheta-bagaj-date-contact-calatorie",
+      "creator": "Merită să Mergi",
+      "enclosure": {
+        "url": "https://meritasamergi.ro/images/posts/eticheta-bagaj-date-contact-calatorie.png"
+      }
+    },
+    {
+      "title": "Muzeul Național al Hărților din București: program, bilete și cum planifici vizita",
+      "link": "https://meritasamergi.ro/post/muzeul-national-hartilor-bucuresti-vizitare",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Ghid practic pentru Muzeul Național al Hărților și Cărții Vechi: program, tarife publicate, acces în Dorobanți, colecția permanentă și verificările utile înainte de plecare.",
+      "guid": "https://meritasamergi.ro/post/muzeul-national-hartilor-bucuresti-vizitare",
+      "creator": "Merită să Mergi",
+      "enclosure": {
+        "url": "https://meritasamergi.ro/images/posts/muzeul-national-hartilor-bucuresti-vizitare.png"
+      }
+    },
+    {
+      "title": "AI înainte de concediu în 2027: ce poți delega și ce verifici personal la întoarcere",
+      "link": "https://meritasamergi.ro/post/ai-inainte-de-concediu-2027-emailuri",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Booking.com arată că 64% dintre călătorii intervievați pentru raportul 2027 s-ar declara interesați ca un agent AI să gestioneze unele sarcini de lucru în…",
+      "guid": "https://meritasamergi.ro/post/ai-inainte-de-concediu-2027-emailuri",
+      "creator": "Merită să Mergi",
+      "enclosure": {
+        "url": "https://meritasamergi.ro/images/posts/ai-inainte-de-concediu-2027-emailuri.webp"
+      }
+    },
+    {
+      "title": "Vacanță cu prietenii în 2027: discuția despre bani care trebuie purtată înainte de rezervare",
+      "link": "https://meritasamergi.ro/post/buget-vacanta-grup-2027-inainte-rezervare",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "În sondajul Booking.com pentru 2027, jumătate dintre călătorii intervievați spun că au reconsiderat pe cine invită într-o vacanță din cauza diferențelor de…",
+      "guid": "https://meritasamergi.ro/post/buget-vacanta-grup-2027-inainte-rezervare",
+      "creator": "Merită să Mergi",
+      "enclosure": {
+        "url": "https://meritasamergi.ro/images/posts/buget-vacanta-grup-2027-inainte-rezervare.webp"
+      }
+    },
+    {
+      "title": "Călătorie solo la un eveniment sportiv în 2027: cum te înscrii fără să depinzi de grup",
+      "link": "https://meritasamergi.ro/post/calatorie-solo-eveniment-sportiv-2027",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Pentru 2027, Booking.com observă interesul călătorilor solo pentru activități fizice împărțite cu alți participanți.",
+      "guid": "https://meritasamergi.ro/post/calatorie-solo-eveniment-sportiv-2027",
+      "creator": "Merită să Mergi",
+      "enclosure": {
+        "url": "https://meritasamergi.ro/images/posts/calatorie-solo-eveniment-sportiv-2027.webp"
+      }
+    },
+    {
+      "title": "City break de o noapte în 2027: când merită drumul și cum calculezi timpul util",
+      "link": "https://meritasamergi.ro/post/city-break-o-noapte-2027-calcul",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Expedia observă pentru 2027 interesul pentru pauze scurte, iar căutările Hotels.com pentru sejururi de o noapte au crescut cu aproape 10% față de anul…",
+      "guid": "https://meritasamergi.ro/post/city-break-o-noapte-2027-calcul",
+      "creator": "Merită să Mergi",
+      "enclosure": {
+        "url": "https://meritasamergi.ro/images/posts/city-break-o-noapte-2027-calcul.webp"
+      }
+    }
+  ],
+  "legal": [
+    {
+      "title": "Abonament digital defect în 2027: ce drepturi ai dacă aplicația nu funcționează",
+      "link": "https://ghidullegal.ro/post/abonament-digital-defect-in-2027-ce-drepturi-ai",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Regulile UE privind conformitatea pot acoperi și conținutul sau serviciile digitale.",
+      "guid": "https://ghidullegal.ro/post/abonament-digital-defect-in-2027-ce-drepturi-ai",
+      "creator": "Ghidul Legal",
+      "enclosure": {
+        "url": "https://ghidullegal.ro/images/posts/abonament-digital-defect-in-2027-ce-drepturi-ai.webp"
+      }
+    },
+    {
+      "title": "Ce acte normative au fost publicate azi, 27 noiembrie 2026, în Monitorul Oficial",
+      "link": "https://ghidullegal.ro/post/ce-acte-normative-au-fost-publicate-azi-27-noiembrie-2026",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Monitorul Oficial, Partea I, nr. 989 și 990 din 27 noiembrie 2026 nu cuprinde legi, ordonanțe sau hotărâri ale Guvernului. Sunt publicate două ordine cu efect practic pentru proiecte de mobilitate cu emisii zero și pentru tarife sanitar-veterinare.",
+      "guid": "https://ghidullegal.ro/post/ce-acte-normative-au-fost-publicate-azi-27-noiembrie-2026",
+      "creator": "Ghidul Legal",
+      "enclosure": {
+        "url": "https://ghidullegal.ro/images/posts/ai_2026_legal.png"
+      }
+    },
+    {
+      "title": "Cererea europeană cu valoare redusă în 2027: când o poți folosi",
+      "link": "https://ghidullegal.ro/post/cerere-valoare-redusa-2027-cand-o-folosesti",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Procedura se aplică unor litigii civile și comerciale transfrontaliere de până la 5.000 €.",
+      "guid": "https://ghidullegal.ro/post/cerere-valoare-redusa-2027-cand-o-folosesti",
+      "creator": "Ghidul Legal",
+      "enclosure": {
+        "url": "https://ghidullegal.ro/images/posts/cerere-valoare-redusa-2027-cand-o-folosesti.webp"
+      }
+    },
+    {
+      "title": "Datele tale personale în 2027: cum ceri o copie unei aplicații",
+      "link": "https://ghidullegal.ro/post/date-personale-in-2027-cum-ceri-copie",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "GDPR oferă drept de acces la date, cu limite legate de drepturile altor persoane.",
+      "guid": "https://ghidullegal.ro/post/date-personale-in-2027-cum-ceri-copie",
+      "creator": "Ghidul Legal",
+      "enclosure": {
+        "url": "https://ghidullegal.ro/images/posts/date-personale-in-2027-cum-ceri-copie.webp"
+      }
+    },
+    {
+      "title": "Demisia și preavizul: ce faci dacă angajatorul refuză să o înregistreze",
+      "link": "https://ghidullegal.ro/post/demisie-preaviz-angajator-refuz-inregistrare",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Demisia este o notificare unilaterală, nu o cerere de aprobare. Codul muncii obligă angajatorul să o înregistreze și permite salariatului să dovedească transmiterea prin orice mijloc de probă dacă documentul este refuzat.",
+      "guid": "https://ghidullegal.ro/post/demisie-preaviz-angajator-refuz-inregistrare",
+      "creator": "Ghidul Legal",
+      "enclosure": {
+        "url": "https://ghidullegal.ro/images/posts/demisie-preaviz-angajator-refuz-inregistrare.webp"
+      }
+    },
+    {
+      "title": "Garanția legală în 2027: cui reclami un produs defect și ce poți cere",
+      "link": "https://ghidullegal.ro/post/garantia-legala-in-2027-cui-reclami-produsul",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Pentru bunuri cumpărate de la un comerciant UE există cel puțin doi ani de protecție legală.",
+      "guid": "https://ghidullegal.ro/post/garantia-legala-in-2027-cui-reclami-produsul",
+      "creator": "Ghidul Legal",
+      "enclosure": {
+        "url": "https://ghidullegal.ro/images/posts/garantia-legala-in-2027-cui-reclami-produsul.webp"
+      }
+    }
+  ],
+  "sanatate": [
+    {
+      "title": "Arterita temporală: 9 confuzii despre cefalee, VSH și cortizon",
+      "link": "https://sfaturidesanatate.ro/post/arterita-temporala-9-confuzii-cefalee-vsh-si-cortizon",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Nu orice durere la tâmplă înseamnă vasculită, dar o schimbare de vedere nu așteaptă analizele. Nouă confuzii despre arterita cu celule gigante, ecografie, biopsie și tratament.",
+      "guid": "https://sfaturidesanatate.ro/post/arterita-temporala-9-confuzii-cefalee-vsh-si-cortizon",
+      "creator": "Sfaturi de sănătate",
+      "enclosure": {
+        "url": "https://sfaturidesanatate.ro/images/posts/arterita-temporala-discutie-medicala.webp"
+      }
+    },
+    {
+      "title": "Clinici pediatrice în Motru: ambulatoriul spitalului și limitele ratingului Google",
+      "link": "https://sfaturidesanatate.ro/post/clinici-pediatrice-motru",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Spitalul Municipal Motru publică o secție și un cabinet de Pediatrie; profilul ambulatoriului avea 3,0/5 din 43 de recenzii la verificare.",
+      "guid": "https://sfaturidesanatate.ro/post/clinici-pediatrice-motru",
+      "creator": "Sfaturi de sănătate",
+      "enclosure": {
+        "url": "https://sfaturidesanatate.ro/images/posts/clinici-pediatrice-motru.webp"
+      }
+    },
+    {
+      "title": "Medici pediatri în Motru: trei nume și programul publicat de spital",
+      "link": "https://sfaturidesanatate.ro/post/medici-pediatri-motru",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Spitalul Municipal Motru publică trei pediatri în ambulatoriu și secție; lista este alfabetică, iar programarea trebuie confirmată telefonic.",
+      "guid": "https://sfaturidesanatate.ro/post/medici-pediatri-motru",
+      "creator": "Sfaturi de sănătate",
+      "enclosure": {
+        "url": "https://sfaturidesanatate.ro/images/posts/medici-pediatri-motru.webp"
+      }
+    },
+    {
+      "title": "Narcolepsia: 9 confuzii despre somnolență, cataplexie și tratament",
+      "link": "https://sfaturidesanatate.ro/post/narcolepsie-9-confuzii-despre-somnolenta-cataplexie-si-tratament",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Ațipirea după o noapte scurtă nu înseamnă narcolepsie, iar cataplexia nu este leșin. Nouă confuzii care pot întârzia diagnosticul sau pot crea riscuri.",
+      "guid": "https://sfaturidesanatate.ro/post/narcolepsie-9-confuzii-despre-somnolenta-cataplexie-si-tratament",
+      "creator": "Sfaturi de sănătate",
+      "enclosure": {
+        "url": "https://sfaturidesanatate.ro/images/posts/narcolepsie-somnolenta-siguranta.webp"
+      }
+    },
+    {
+      "title": "Alunițele în 2027: când merită să ceri o evaluare dermatologică",
+      "link": "https://sfaturidesanatate.ro/post/alunitele-in-2027-cand-mergi-la-dermatolog",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Protecția UV și observarea schimbărilor sunt mai utile decât o aplicație care promite diagnostic.",
+      "guid": "https://sfaturidesanatate.ro/post/alunitele-in-2027-cand-mergi-la-dermatolog",
+      "creator": "Sfaturi de sănătate",
+      "enclosure": {
+        "url": "https://sfaturidesanatate.ro/images/posts/alunitele-in-2027-cand-mergi-la-dermatolog.webp"
+      }
+    },
+    {
+      "title": "Analizele pentru diabet în 2027: când întrebi medicul despre testare",
+      "link": "https://sfaturidesanatate.ro/post/analizele-pentru-diabet-in-2027-cand-intrebi",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Prediabetul și diabetul de tip 2 pot apărea fără simptome evidente.",
+      "guid": "https://sfaturidesanatate.ro/post/analizele-pentru-diabet-in-2027-cand-intrebi",
+      "creator": "Sfaturi de sănătate",
+      "enclosure": {
+        "url": "https://sfaturidesanatate.ro/images/posts/analizele-pentru-diabet-in-2027-cand-intrebi.webp"
+      }
+    }
+  ],
+  "gospodar": [
+    {
+      "title": "Cum cureți storcătorul electric de citrice fără să uzi motorul",
+      "link": "https://ghidulgospodarului.ro/post/cum-cureti-storcatorul-electric-de-citrice-fara-sa-udezi-motorul",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Conul, sita și vasul pot fi detașabile, dar baza cu motor nu se spală sub jet. Află ordinea sigură de curățare și de ce manualul modelului are prioritate.",
+      "guid": "https://ghidulgospodarului.ro/post/cum-cureti-storcatorul-electric-de-citrice-fara-sa-udezi-motorul",
+      "creator": "Ghidul Gospodarului",
+      "enclosure": {
+        "url": "https://ghidulgospodarului.ro/images/posts/cum-cureti-storcatorul-electric-de-citrice-fara-sa-udezi-motorul.webp"
+      }
+    },
+    {
+      "title": "Cum îngrijești nolina iarna fără să putrezească baza",
+      "link": "https://ghidulgospodarului.ro/post/cum-ingrijesti-nolina-iarna-fara-sa-putrezeasca-baza",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Nolina sau piciorul de elefant suportă mai bine un substrat puțin uscat decât unul rece și ud. Vezi unde o așezi iarna, cum verifici caudexul și când amâni udarea.",
+      "guid": "https://ghidulgospodarului.ro/post/cum-ingrijesti-nolina-iarna-fara-sa-putrezeasca-baza",
+      "creator": "Ghidul Gospodarului",
+      "enclosure": {
+        "url": "https://ghidulgospodarului.ro/images/posts/cum-ingrijesti-nolina-iarna-fara-sa-putrezeasca-baza.webp"
+      }
+    },
+    {
+      "title": "Pompă submersibilă de 1.500 W: adâncimea, cablul și protecția la lucru",
+      "link": "https://ghidulgospodarului.ro/post/pompa-submersibila-1500w-adancime-cablu-protectie",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "O pompă de puț se alege după nivelul dinamic al apei, diametrul forajului și traseul de refulare. Puterea înscrisă pe etichetă nu rezolvă incompatibilitatea de montaj.",
+      "guid": "https://ghidulgospodarului.ro/post/pompa-submersibila-1500w-adancime-cablu-protectie",
+      "creator": "Ghidul Gospodarului",
+      "enclosure": {
+        "url": "https://www.scule365.ro/uploads/produse/31057/8981384.jpg"
+      }
+    },
+    {
+      "title": "Alertă de apă sau gaz pe telefon în 2027: ce funcții merită verificate întâi",
+      "link": "https://ghidulgospodarului.ro/post/alerte-apa-gaz-telefon-bucatarie-2027",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "O alertă pe telefon pentru scurgeri, pană de curent sau o problemă detectată de un aparat poate fi mai utilă decât o funcție AI pe care nu o folosești.",
+      "guid": "https://ghidulgospodarului.ro/post/alerte-apa-gaz-telefon-bucatarie-2027",
+      "creator": "Ghidul Gospodarului",
+      "enclosure": {
+        "url": "https://ghidulgospodarului.ro/images/posts/alerte-apa-gaz-telefon-bucatarie-2027.webp"
+      }
+    },
+    {
+      "title": "Bucătăria semiînchisă în 2027: cum separi gătitul fără să pierzi lumina",
+      "link": "https://ghidulgospodarului.ro/post/bucatarie-semiinchisa-2027-lumina",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "O bucătărie semiînchisă poate separa mirosurile și zgomotul de restul locuinței, păstrând totuși legătura vizuală.",
+      "guid": "https://ghidulgospodarului.ro/post/bucatarie-semiinchisa-2027-lumina",
+      "creator": "Ghidul Gospodarului",
+      "enclosure": {
+        "url": "https://ghidulgospodarului.ro/images/posts/bucatarie-semiinchisa-2027-lumina.webp"
+      }
+    },
+    {
+      "title": "Cămara cu loc pentru aparatele mici în 2027: ce măsori înainte de mobilier",
+      "link": "https://ghidulgospodarului.ro/post/camara-aparate-mici-2027-masuratori",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Cămara poate deveni și locul în care ții aparatele mici, dar proiectul începe cu măsurători și cu nevoia de acces sigur.",
+      "guid": "https://ghidulgospodarului.ro/post/camara-aparate-mici-2027-masuratori",
+      "creator": "Ghidul Gospodarului",
+      "enclosure": {
+        "url": "https://ghidulgospodarului.ro/images/posts/camara-aparate-mici-2027-masuratori.webp"
+      }
+    }
+  ],
+  "azi": [
+    {
+      "title": "Cartofi fondanți cu pleurotus, cremă de pătrunjel-rădăcină și sos de vin alb",
+      "link": "https://azicemancam.ro/post/cartofi-fondanti-cu-pleurotus-crema-de-patrunjel-radacina-si-sos-de-vin-alb",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Cartofi rumeniți lent în unt, ciuperci pleurotus cu margini crocante și o cremă fină de pătrunjel-rădăcină. Rețeta explică ordinea pașilor pentru o farfurie elegantă, făcută acasă.",
+      "guid": "https://azicemancam.ro/post/cartofi-fondanti-cu-pleurotus-crema-de-patrunjel-radacina-si-sos-de-vin-alb",
+      "creator": "Azi ce mâncăm",
+      "enclosure": {
+        "url": "/images/posts/cartofi-fondanti-cu-pleurotus-crema-de-patrunjel-radacina-si-sos-de-vin-alb.webp"
+      }
+    },
+    {
+      "title": "Ciocolata în porții mici în 2027: cum citești rețetele cu proteină și fibre",
+      "link": "https://azicemancam.ro/post/ciocolata-portii-mici-proteine-fibre-2027",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Prognoza Puratos arată că în 2027 vom vedea tot mai multe porții mici de ciocolată cu adăugiri de proteină sau fibre. Cum adaptezi rețetele acasă.",
+      "guid": "https://azicemancam.ro/post/ciocolata-portii-mici-proteine-fibre-2027",
+      "creator": "Azi ce mâncăm",
+      "enclosure": {
+        "url": "/images/posts/ciocolata-portii-mici-proteine-fibre-2027.webp"
+      }
+    },
+    {
+      "title": "Gusturile acrișoare în 2027: cum folosești citricele și sumacul la cină",
+      "link": "https://azicemancam.ro/post/citrice-sumac-gust-acrisor-2027",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Cum să aduci prospețimea gusturilor acrișoare la masa de seară, folosind idei inspirate de previziunile internaționale: sumac, citrice și condimente noi.",
+      "guid": "https://azicemancam.ro/post/citrice-sumac-gust-acrisor-2027",
+      "creator": "Azi ce mâncăm",
+      "enclosure": {
+        "url": "/images/posts/citrice-sumac-gust-acrisor-2027.webp"
+      }
+    },
+    {
+      "title": "Croissantul umplut în 2027: de ce crema din interior devine vedeta desertului",
+      "link": "https://azicemancam.ro/post/croissant-umplut-crema-2027",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Cercetările internaționale Taste Tomorrow indică: cremele bogate din croissante devin centrul atenției în 2027. Iată cum aduci trendul în bucătărie.",
+      "guid": "https://azicemancam.ro/post/croissant-umplut-crema-2027",
+      "creator": "Azi ce mâncăm",
+      "enclosure": {
+        "url": "/images/posts/croissant-umplut-crema-2027.webp"
+      }
+    },
+    {
+      "title": "Fasolea și lintea în centrul farfuriei în 2027: idei de cină fără artificii",
+      "link": "https://azicemancam.ro/post/fasole-linte-cina-2027",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Whole Foods prognozează pentru 2027 o explozie a mâncărurilor cu fasole și linte—utilizați aceste ingrediente ca element principal la cină.",
+      "guid": "https://azicemancam.ro/post/fasole-linte-cina-2027",
+      "creator": "Azi ce mâncăm",
+      "enclosure": {
+        "url": "/images/posts/fasole-linte-cina-2027.webp"
+      }
+    },
+    {
+      "title": "Focaccia cu gust de cinnamon roll în 2027: de unde vine trendul preparatelor reinterpretate",
+      "link": "https://azicemancam.ro/post/focaccia-scortisoara-cinnamon-roll-2027",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "În 2027, reinterpretarea preparatelor clasice – precum focaccia cu aromă de cinnamon roll – câștigă teren internațional. Iată cum poți încerca acasă!",
+      "guid": "https://azicemancam.ro/post/focaccia-scortisoara-cinnamon-roll-2027",
+      "creator": "Azi ce mâncăm",
+      "enclosure": {
+        "url": "/images/posts/focaccia-scortisoara-cinnamon-roll-2027.webp"
+      }
+    }
+  ],
   "cm": [
     {
       "title": "Trapă sau plafon panoramic la mașina second-hand în 2026: ce verifici la drenaje, cheder, mecanism și infiltrații",
@@ -62,5 +500,126 @@
       "creator": null
     }
   ],
-  "pc": []
+  "pc": [
+    {
+      "title": "Cod Galben de ninsoare și viscol în sudul țării, strat de zăpadă de până la 25 cm în Oltenia și rafale puternice pe autostrada A7",
+      "link": "https://painesicirc.ro/post/cod-galben-de-ninsoare-si-viscol-in-sudul-tarii-strat-de-zapada-de-pana-la-25-cm-in-oltenia-si-rafale-puternice-pe-autostrada-a7",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Administrația Națională de Meteorologie a emis un Cod Galben pentru ninsori și viscol în București și în județele din sudul și sud-estul țării, valabil până duminică, 29 noiembrie, ora 10. În Oltenia stratul de zăpadă poate atinge 25 cm, iar pe autostrada A7 între Ploiești și Bacău se așteaptă ninsoare și vânt puternic, pe fondul unei răciri accentuate a vremii.",
+      "guid": "https://painesicirc.ro/post/cod-galben-de-ninsoare-si-viscol-in-sudul-tarii-strat-de-zapada-de-pana-la-25-cm-in-oltenia-si-rafale-puternice-pe-autostrada-a7",
+      "creator": null,
+      "enclosure": {
+        "url": "https://images.pexels.com/photos/30812025/pexels-photo-30812025.jpeg"
+      }
+    },
+    {
+      "title": "Rusia susține că Ucraina extinde conflictul în Marea Mediterană și Marea Baltică, avertizează Dmitri Peskov după atacuri asupra navelor rusești",
+      "link": "https://painesicirc.ro/post/rusia-sustine-ca-ucraina-extinde-conflictul-in-marea-mediterana-si-marea-baltica-avertizeaza-dmitri-peskov-dupa-atacuri-asupra-navelor-rusesti",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Rusia a acuzat Ucraina, în iunie 2024, de încercarea de a extinde conflictele militare în Marea Mediterană și Marea Baltică, după atacuri cu drone asupra unor nave rusești în Libia și în Golful Finlandei. Kremlinul, prin Dmitri Peskov, consideră aceste acțiuni periculoase și avertizează asupra riscurilor pentru securitatea regională, în timp ce state europene și NATO cer prudență pentru a evita es",
+      "guid": "https://painesicirc.ro/post/rusia-sustine-ca-ucraina-extinde-conflictul-in-marea-mediterana-si-marea-baltica-avertizeaza-dmitri-peskov-dupa-atacuri-asupra-navelor-rusesti",
+      "creator": null,
+      "enclosure": {
+        "url": "https://www.expresspress.ro/wp-content/uploads/2026/11/Dimitri-Peskov-2048x1365-1.png"
+      }
+    },
+    {
+      "title": "Bugetul UE rămâne fără acord: România cere protejarea coeziunii și agriculturii",
+      "link": "https://painesicirc.ro/post/summitul-ue-pentru-bugetul-multianual-2028-2034-s-a-incheiat-prematur-fara-un-consens-privind-fondurile-pentru-aparare-agricultura-si-dezvoltare-regionala",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Liderii UE au încheiat summitul fără acord asupra bugetului 2028–2034. România și alte 16 state se opun reducerilor pentru coeziune și agricultură.",
+      "guid": "https://painesicirc.ro/post/summitul-ue-pentru-bugetul-multianual-2028-2034-s-a-incheiat-prematur-fara-un-consens-privind-fondurile-pentru-aparare-agricultura-si-dezvoltare-regionala",
+      "creator": null,
+      "enclosure": {
+        "url": "https://painesicirc.ro/images/posts/summit-ue-fara-acord-buget-2028-2034-romania-coeziune.webp"
+      }
+    },
+    {
+      "title": "Ucraina afirmă că a neutralizat o dronă rusească cu un sistem laser experimental construit intern",
+      "link": "https://painesicirc.ro/post/ucraina-afirma-ca-a-neutralizat-o-drona-ruseasca-cu-un-sistem-laser-experimental-construit-intern",
+      "isoDate": "2026-11-28T00:00:00.000Z",
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Ucraina a doborât pentru prima dată o dronă rusească de tip Geran utilizând sistemul laser Blysk, dezvoltat intern de compania Carmine Sky și aflat încă în faza de testare, conform unui consilier al președintelui Volodimir Zelenski, informație confirmată și de grupul tehnologic ucrainean Brave 1.",
+      "guid": "https://painesicirc.ro/post/ucraina-afirma-ca-a-neutralizat-o-drona-ruseasca-cu-un-sistem-laser-experimental-construit-intern",
+      "creator": null,
+      "enclosure": {
+        "url": "https://images.pexels.com/photos/36522029/pexels-photo-36522029.jpeg"
+      }
+    },
+    {
+      "title": "ANM: ninsori, viscol și polei în weekendul minivacanței",
+      "link": "https://painesicirc.ro/post/anm-ninsori-viscol-minivacanta-27-noiembrie",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Informarea ANM este valabilă între 27 și 29 noiembrie. Sunt prognozate ninsori, rafale de 50–70 km/h, polei și temperaturi negative în țară.",
+      "guid": "https://painesicirc.ro/post/anm-ninsori-viscol-minivacanta-27-noiembrie",
+      "creator": null,
+      "enclosure": {
+        "url": "https://painesicirc.ro/images/posts/anm-ninsori-viscol-minivacanta-27-noiembrie.webp"
+      }
+    },
+    {
+      "title": "Becky G va concerta pentru prima dată în România la festivalul GALAXIA (anunț publicat 26 noiembrie 2026)",
+      "link": "https://painesicirc.ro/post/becky-g-va-concerta-pentru-prima-data-in-romania-la-festivalul-galaxia-anunt-publicat-26-noiembrie-2026",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "- Artista Becky G a fost anunțată pentru primul concert în România, programat la festivalul GALAXIA (NIBIRU), care va avea loc între 15 și 18 iulie 2027 la Costinești. (raportări publice pe 26 noiembrie 2026). - Anunțul a fost preluat de publicații naționale din 26 noiembrie 2026",
+      "guid": "https://painesicirc.ro/post/becky-g-va-concerta-pentru-prima-data-in-romania-la-festivalul-galaxia-anunt-publicat-26-noiembrie-2026",
+      "creator": null,
+      "enclosure": {
+        "url": "https://painesicirc.ro/images/posts/becky-g-va-concerta-pentru-prima-data-in-romania-la-festivalul-galaxia-anunt-publicat-26-noiembrie-2026_master.webp"
+      }
+    },
+    {
+      "title": "Cabral a pierdut circa 35 kg: transformarea anunțată în legătură cu revenirea în serialul „Băieți buni: Pe viață”",
+      "link": "https://painesicirc.ro/post/cabral-a-pierdut-circa-35-kg-transformarea-anuntata-in-legatura-cu-revenirea-in-serialul-baieti-buni-pe-viata",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "- Cabral (Cabral Ibacka) a declarat public că a slăbit în jur de 35 de kilograme în ultimele luni, schimbare legată de revenirea sa în serialul „Băieți buni: Pe viață” și de cerințele producției. ([libertatea.ro](",
+      "guid": "https://painesicirc.ro/post/cabral-a-pierdut-circa-35-kg-transformarea-anuntata-in-legatura-cu-revenirea-in-serialul-baieti-buni-pe-viata",
+      "creator": null,
+      "enclosure": {
+        "url": "https://painesicirc.ro/images/posts/cabral-a-pierdut-circa-35-kg-transformarea-anuntata-in-legatura-cu-revenirea-in-serialul-baieti-buni-pe-viata_master.webp"
+      }
+    },
+    {
+      "title": "City Fashion Week la Cluj: două seri de prezentări la Wonderland Resort (26–27 noiembrie 2026)",
+      "link": "https://painesicirc.ro/post/city-fashion-week-la-cluj-doua-seri-de-prezentari-la-wonderland-resort-2627-noiembrie-2026",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "- City Fashion Week s‑a desfășurat la Wonderland Resort, Cluj‑Napoca, în seriile de 26 și 27 noiembrie 2026, cu colecții semnate de designeri români și un podium extins de aproximativ 40 de metri. ([cityfashionweek.ro](",
+      "guid": "https://painesicirc.ro/post/city-fashion-week-la-cluj-doua-seri-de-prezentari-la-wonderland-resort-2627-noiembrie-2026",
+      "creator": null,
+      "enclosure": {
+        "url": "https://painesicirc.ro/images/posts/city-fashion-week-la-cluj-doua-seri-de-prezentari-la-wonderland-resort-2627-noiembrie-2026_master.webp"
+      }
+    },
+    {
+      "title": "Comunicatul oficial în 2027: ce spune, ce nu spune și ce mai trebuie întrebat",
+      "link": "https://painesicirc.ro/post/comunicat-oficial-2027-cum-citesti",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Un comunicat poate confirma o decizie sau o anchetă în curs, dar nu toate consecințele sugerate de titlurile grăbite.",
+      "guid": "https://painesicirc.ro/post/comunicat-oficial-2027-cum-citesti",
+      "creator": null,
+      "enclosure": {
+        "url": "https://painesicirc.ro/images/posts/comunicat-oficial-2027-cum-citesti.webp"
+      }
+    },
+    {
+      "title": "Copii și reclame pe platforme în 2027: ce verifică un părinte",
+      "link": "https://painesicirc.ro/post/copii-social-media-2027-setari-publicitate",
+      "isoDate": "2026-11-27T00:00:00.000Z",
+      "pubDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "contentSnippet": "Normele UE interzic publicitatea țintită către minori pe platformele vizate; setările și vârsta declarată contează în practică.",
+      "guid": "https://painesicirc.ro/post/copii-social-media-2027-setari-publicitate",
+      "creator": null,
+      "enclosure": {
+        "url": "https://painesicirc.ro/images/posts/copii-social-media-2027-setari-publicitate.webp"
+      }
+    }
+  ]
 }
